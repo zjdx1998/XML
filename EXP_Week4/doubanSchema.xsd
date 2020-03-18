@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--W3C Schema 由 XMLSpy v2005 发行版 3 U 创建 (http://www.altova.com)-->
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
 	<xs:element name="MovieRank">
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element ref="Retrieve"/>
-				<xs:element ref="Movie"/>
+				<xs:element ref="Movie" maxOccurs="250"/>
 			</xs:sequence>
 			<xs:attribute name="total" use="required">
 				<xs:simpleType>
 					<xs:restriction base="xs:integer">
-						<xs:minInclusive value="1"/>
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="250"/>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:attribute>
@@ -37,7 +38,8 @@
 			<xs:attribute name="Rank" use="required">
 				<xs:simpleType>
 					<xs:restriction base="xs:integer">
-						<xs:minInclusive value="1"/>
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="250"/>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:attribute>
@@ -94,11 +96,12 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="keyword" type="xs:string"/>
-	<xs:element name="Date" type="xs:date"/>
+	<xs:element name="Date" type="xs:string"/>
 	<xs:element name="Length">
 		<xs:simpleType>
-			<xs:restriction base="xs:integer">
-				<xs:minInclusive value="0"/>
+			<xs:restriction base="xs:string">
+                <xs:minInclusive value="0"/>
+                <xs:maxInclusive value="250"/>
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:element>

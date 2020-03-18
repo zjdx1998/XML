@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MovieRank total="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="D:\Tencent Files\345783089\FileRecv\lear\XML\doubanSchema.xsd">
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊-->
+<MovieRank total="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
 	<Retrieve time="2020-03-02"/>
 	<Movie Rank="1">
 		<Name>

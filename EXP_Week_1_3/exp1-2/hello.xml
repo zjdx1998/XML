@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone="yes"?>
+<zjd:card>
+    <Contact category='Mail'>
+        zjdx1998@gmail.com
+    </Contact>
+    <name>
+        张建东
+    </name>
+    <EnglishName>
+        Jeromy Zhang
+    </EnglishName>
+    <University>
+        东南大学
+    </University>
+    <Company>
+        微软
+    </Company>
+    <Job>
+        后端开发软件工程师
+    </Job>
+    <Hobbies>
+        音乐、摄影
+    </Hobbies>
+</zjd:card>

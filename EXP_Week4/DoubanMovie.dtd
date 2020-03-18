@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊-->
 <!ELEMENT MovieRank (Retrieve, Movie)>
 <!ATTLIST MovieRank
 	total CDATA #REQUIRED

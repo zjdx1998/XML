@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊-->
+<MovieRank total="25" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
+    <Retrieve time="2020-03-02"/>
+    <Movie Rank="1">
+        <Name>
+            <StandardName>肖申克的救赎</StandardName>
+            <OtherName>月黑高飞(港)</OtherName>
+            <OtherName>刺激1995(台)</OtherName>
+            <OtherName>地狱诺言</OtherName>
+            <OtherName>铁窗岁月</OtherName>
+            <OtherName>消香克的救赎</OtherName>
+        </Name>
+        <Rating>9.7</Rating>
+        <Category type="剧情"/>
+        <Category type="犯罪"/>
+        <Intro>
+            　　20世纪40年代末，小有成就的青年银行家安迪
+            <keyword>（蒂姆·罗宾斯TimRobbins饰）</keyword>
+            因涉嫌杀害妻子及她的情人而锒铛入狱。在这座名为肖申克的监狱内，希望似乎虚无缥缈，终身监禁的惩罚无疑注定了安迪接下来灰暗绝望的人生。未过多久，安迪尝试接近囚犯中颇有声望的瑞德
+            <keyword>（摩根·弗里曼MorganFreeman饰）</keyword>
+            ，请求对方帮自己搞来小锤子。以此为契机，二人逐渐熟稔，安迪也仿佛在鱼龙混杂、罪恶横生、黑白混淆的牢狱中找到属于自己的求生之道。他利用自身的专业知识，帮助监狱管理层逃税、洗黑钱，同时凭借与瑞德的交往在犯人中间也渐渐受到礼遇。表面看来，他已如瑞德那样对那堵高墙从憎恨转变为处之泰然，但是对自由的渴望仍促使他朝着心中的希望和目标前进。而关于其罪行的真相，似乎更使这一切朝前推进了一步……　　本片根据著名作家斯蒂芬·金
+            <keyword>（StephenEdwinKing）</keyword>
+            的原著改编。
+        </Intro>
+        <Date>1994-09-10(多伦多电影节)</Date>
+        <Length>142</Length>
+        <Director>弗兰克·德拉邦特</Director>
+        <ScriptWriter>弗兰克·德拉邦特</ScriptWriter>
+        <ScriptWriter>斯蒂芬·金</ScriptWriter>
+        <ActorList>
+            <Actor>蒂姆·罗宾斯</Actor>
+            <Actor>摩根·弗里曼</Actor>
+            <Actor>鲍勃·冈顿</Actor>
+            <Actor>威廉姆·赛德勒</Actor>
+            <Actor>克兰西·布朗</Actor>
+            <Actor>吉尔·贝罗斯</Actor>
+            <Actor>马克·罗斯顿</Actor>
+            <Actor>詹姆斯·惠特摩</Actor>
+            <Actor>杰弗里·德曼</Actor>
+            <Actor>拉里·布兰登伯格</Actor>
+            <Actor>尼尔·吉恩托利</Actor>
+            <Actor>布赖恩·利比</Actor>
+            <Actor>大卫·普罗瓦尔</Actor>
+            <Actor>约瑟夫·劳格诺</Actor>
+            <Actor>祖德·塞克利拉</Actor>
+            <Actor>保罗·麦克兰尼</Actor>
+            <Actor>芮妮·布莱恩</Actor>
+            <Actor>阿方索·弗里曼</Actor>
+            <Actor>V·J·福斯特</Actor>
+            <Actor>弗兰克·梅德拉诺</Actor>
+            <Actor>马克·迈尔斯</Actor>
+            <Actor>尼尔·萨默斯</Actor>
+            <Actor>耐德·巴拉米</Actor>
+            <Actor>布赖恩·戴拉特</Actor>
+            <Actor>唐·麦克马纳斯</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="2">
+        <Name>
+            <StandardName>霸王别姬</StandardName>
+            <OtherName>再见，我的妾</OtherName>
+            <OtherName>Farewell My Concubine</OtherName>
+        </Name>
+        <Rating>9.6</Rating>
+        <Category type="剧情"/>
+        <Category type="爱情"/>
+        <Category type="同性"/>
+        <Intro>
+            　　段小楼
+            <keyword>（张丰毅）</keyword>
+            与程蝶衣
+            <keyword>（张国荣）</keyword>
+            是一对打小一起长大的师兄弟，两人一个演生，一个饰旦，一向配合天衣无缝，尤其一出《霸王别姬》，更是誉满京城，为此，两人约定合演一辈子《霸王别姬》。但两人对戏剧与人生关系的理解有本质不同，段小楼深知戏非人生，程蝶衣则是人戏不分。　　段小楼在认为该成家立业之时迎娶了名妓菊仙
+            <keyword>（巩俐）</keyword>
+            ，致使程蝶衣认定菊仙是可耻的第三者，使段小楼做了叛徒，自此，三人围绕一出《霸王别姬》生出的爱恨情仇战开始随着时代风云的变迁不断升级，终酿成悲剧。
+        </Intro>
+        <Date>1993-01-01(中国香港)</Date>
+        <Length>171 </Length>
+        <Director>陈凯歌</Director>
+        <ScriptWriter>芦苇</ScriptWriter>
+        <ScriptWriter>李碧华</ScriptWriter>
+        <ActorList>
+            <Actor>张国荣</Actor>
+            <Actor>张丰毅</Actor>
+            <Actor>巩俐</Actor>
+            <Actor>葛优</Actor>
+            <Actor>英达</Actor>
+            <Actor>蒋雯丽</Actor>
+            <Actor>吴大维</Actor>
+            <Actor>吕齐</Actor>
+            <Actor>雷汉</Actor>
+            <Actor>尹治</Actor>
+            <Actor>马明威</Actor>
+            <Actor>费振翔</Actor>
+            <Actor>智一桐</Actor>
+            <Actor>李春</Actor>
+            <Actor>赵海龙</Actor>
+            <Actor>李丹</Actor>
+            <Actor>童弟</Actor>
+            <Actor>沈慧芬</Actor>
+            <Actor>黄斐</Actor>
+            <Actor>徐杰</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="3">
+        <Name>
+            <StandardName>阿甘正传</StandardName>
+            <OtherName>福雷斯特·冈普</OtherName>
+        </Name>
+        <Rating>9.5</Rating>
+        <Category type="剧情"/>
+        <Category type="爱情"/>
+        <Intro>
+            　　阿甘
+            <keyword>（汤姆·汉克斯饰）</keyword>
+            于二战结束后不久出生在美国南方阿拉巴马州一个闭塞的小镇，他先天弱智，智商只有75，然而他的妈妈是一个性格坚强的女性，她常常鼓励阿甘“傻人有傻福”，要他自强不息。　　阿甘像普通孩子一样上学，并且认识了一生的朋友和至爱珍妮
+            <keyword>（罗宾·莱特·潘饰）</keyword>
+            ，在珍妮和妈妈的爱护下，阿甘凭着上帝赐予的“飞毛腿”开始了一生不停的奔跑。　　阿甘成为橄榄球巨星、越战英雄、乒乓球外交使者、亿万富翁，但是，他始终忘不了珍妮，几次匆匆的相聚和离别，更是加深了阿甘的思念。　　有一天，阿甘收到珍妮的信，他们终于又要见面……
+        </Intro>
+        <Date>1994-06-23(洛杉矶首映)</Date>
+        <Length>142</Length>
+        <Director>罗伯特·泽米吉斯</Director>
+        <ScriptWriter>艾瑞克·罗斯</ScriptWriter>
+        <ScriptWriter>温斯顿·格鲁姆</ScriptWriter>
+        <ActorList>
+            <Actor>汤姆·汉克斯</Actor>
+            <Actor>罗宾·怀特</Actor>
+            <Actor>加里·西尼斯</Actor>
+            <Actor>麦凯尔泰·威廉逊</Actor>
+            <Actor>莎莉·菲尔德</Actor>
+            <Actor>海利·乔·奥斯蒙</Actor>
+            <Actor>迈克尔·康纳·亨弗里斯</Actor>
+            <Actor>哈罗德·G·赫瑟姆</Actor>
+            <Actor>山姆·安德森</Actor>
+            <Actor>伊俄涅·M·特雷奇</Actor>
+            <Actor>彼得·道博森</Actor>
+            <Actor>希芳·法隆</Actor>
+            <Actor>伊丽莎白·汉克斯</Actor>
+            <Actor>汉娜·豪尔</Actor>
+            <Actor>克里斯托弗·琼斯</Actor>
+            <Actor>罗布·兰德里</Actor>
+            <Actor>杰森·麦克奎尔</Actor>
+            <Actor>桑尼·施罗耶</Actor>
+            <Actor>艾德·戴维斯</Actor>
+            <Actor>丹尼尔C.斯瑞派克</Actor>
+            <Actor>大卫·布里斯宾</Actor>
+            <Actor>德博拉·麦克蒂尔</Actor>
+            <Actor>艾尔·哈林顿</Actor>
+            <Actor>阿非莫·奥米拉</Actor>
+            <Actor>约翰·沃德斯塔德</Actor>
+            <Actor>迈克尔·伯吉斯</Actor>
+            <Actor>埃里克·安德伍德</Actor>
+            <Actor>拜伦·明斯</Actor>
+            <Actor>斯蒂芬·布吉格沃特</Actor>
+            <Actor>约翰·威廉·高尔特</Actor>
+            <Actor>希拉里·沙普兰</Actor>
+            <Actor>伊莎贝尔·罗斯</Actor>
+            <Actor>理查德·达历山德罗</Actor>
+            <Actor>迪克·史迪威</Actor>
+            <Actor>迈克尔-杰斯</Actor>
+            <Actor>杰弗里·布莱克</Actor>
+            <Actor>瓦妮莎·罗斯</Actor>
+            <Actor>迪克·卡维特</Actor>
+            <Actor>马拉·苏查雷特扎</Actor>
+            <Actor>乔·阿拉斯奇</Actor>
+            <Actor>W·本森·泰瑞</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="4">
+        <Name>
+            <StandardName>这个杀手不太冷</StandardName>
+            <OtherName>杀手莱昂</OtherName>
+            <OtherName>终极追杀令(台)</OtherName>
+            <OtherName>杀手里昂</OtherName>
+            <OtherName>Leon</OtherName>
+            <OtherName>Leon: The Professional</OtherName>
+        </Name>
+        <Rating>9.4</Rating>
+        <Category type="剧情"/>
+        <Category type="动作"/>
+        <Category type="犯罪"/>
+        <Intro>
+            　　里昂
+            <keyword>（让·雷诺饰）</keyword>
+            是名孤独的职业杀手，受人雇佣。一天，邻居家小姑娘马蒂尔达
+            <keyword>
+                （纳塔丽·波特曼饰)</keyword>敲开他的房门，要求在他那里暂避杀身之祸。原来邻居家的主人是警方缉毒组的眼线，只因贪污了一小包毒品而遭恶警
+                <keyword>（加里·奥德曼饰）</keyword>
+                杀害全家的惩罚。马蒂尔达得到里昂的留救，幸免于难，并留在里昂那里。里昂教小女孩使枪，她教里昂法文，两人关系日趋亲密，相处融洽。　　女孩想着去报仇，反倒被抓，里昂及时赶到，将女孩救回。混杂着哀怨情仇的正邪之战渐次升级，更大的冲突在所难免……
+        </Intro>
+        <Date>1994-09-14(法国)</Date>
+        <Length>110(剧场版)</Length>
+        <Director>吕克·贝松</Director>
+        <ScriptWriter>吕克·贝松</ScriptWriter>
+        <ActorList>
+            <Actor>让·雷诺</Actor>
+            <Actor>娜塔莉·波特曼</Actor>
+            <Actor>加里·奥德曼</Actor>
+            <Actor>丹尼·爱罗</Actor>
+            <Actor>彼得·阿佩尔</Actor>
+            <Actor>迈克尔·巴达鲁科</Actor>
+            <Actor>艾伦·格里尼</Actor>
+            <Actor>伊丽莎白·瑞根</Actor>
+            <Actor>卡尔·马图斯维奇</Actor>
+            <Actor>弗兰克·赛格</Actor>
+            <Actor>麦温</Actor>
+            <Actor>乔治·马丁</Actor>
+            <Actor>罗伯特·拉萨多</Actor>
+            <Actor>亚当·布斯奇</Actor>
+            <Actor>马里奥·托迪斯科</Actor>
+            <Actor>萨米·纳塞利</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="5">
+        <Name>
+            <StandardName>美丽人生</StandardName>
+            <OtherName>一个快乐的传说(港)</OtherName>
+            <OtherName>Life Is Beautiful</OtherName>
+        </Name>
+        <Rating>9.5</Rating>
+        <Category type="剧情"/>
+        <Category type="喜剧"/>
+        <Category type="爱情"/>
+        <Category type="战争"/>
+        <Intro>
+            　　犹太青年圭多
+            <keyword>（罗伯托·贝尼尼）</keyword>
+            邂逅美丽的女教师多拉
+            <keyword>（尼可莱塔·布拉斯基）</keyword>
+            ，他彬彬有礼的向多拉鞠躬：“早安！公主！”。历经诸多令人啼笑皆非的周折后，天遂人愿，两人幸福美满的生活在一起。　　然而好景不长，法西斯政权下，圭多和儿子被强行送往犹太人集中营。多拉虽没有犹太血统，毅然同行，与丈夫儿子分开关押在一个集中营里。聪明乐天的圭多哄骗儿子这只是一场游戏，奖品就是一辆大坦克，儿子快乐、天真的生活在纳粹的阴霾之中。尽管集中营的生活艰苦寂寞，圭多仍然带给他人很多快乐，他还趁机在纳粹的广播里问候妻子：“早安！公主！”　　法西斯政权即将倾覆，纳粹的集中营很快就要接受最后的清理，圭多编给儿子的游戏该怎么结束？他们一家能否平安的度过这黑暗的年代呢？
+        </Intro>
+        <Date>2020-01-03(中国大陆)</Date>
+        <Length>116</Length>
+        <Director>罗伯托·贝尼尼</Director>
+        <ScriptWriter>温琴佐·切拉米</ScriptWriter>
+        <ScriptWriter>罗伯托·贝尼尼</ScriptWriter>
+        <ActorList>
+            <Actor>罗伯托·贝尼尼</Actor>
+            <Actor>尼可莱塔·布拉斯基</Actor>
+            <Actor>乔治·坎塔里尼</Actor>
+            <Actor>朱斯蒂诺·杜拉诺</Actor>
+            <Actor>赛尔乔·比尼·布斯特里克</Actor>
+            <Actor>玛丽萨·帕雷德斯</Actor>
+            <Actor>霍斯特·布赫霍尔茨</Actor>
+            <Actor>利迪娅·阿方西</Actor>
+            <Actor>朱利亚娜·洛约迪切</Actor>
+            <Actor>亚美利哥·丰塔尼</Actor>
+            <Actor>彼得·德·席尔瓦</Actor>
+            <Actor>弗朗西斯·古佐</Actor>
+            <Actor>拉法埃拉·莱博罗尼</Actor>
+            <Actor>克劳迪奥·阿方西</Actor>
+            <Actor>吉尔·巴罗尼</Actor>
+            <Actor>马西莫·比安奇</Actor>
+            <Actor>恩尼奥·孔萨尔维</Actor>
+            <Actor>吉安卡尔洛·科森蒂诺</Actor>
+            <Actor>阿伦·克雷格</Actor>
+            <Actor>汉尼斯·赫尔曼</Actor>
+            <Actor>弗兰科·梅斯科利尼</Actor>
+            <Actor>安东尼奥·普雷斯特</Actor>
+            <Actor>吉娜·诺维勒</Actor>
+            <Actor>理查德·塞梅尔</Actor>
+            <Actor>安德烈提多娜</Actor>
+            <Actor>迪尔克·范登贝格</Actor>
+            <Actor>奥梅罗·安东努蒂</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="6">
+        <Name>
+            <StandardName>泰坦尼克号</StandardName>
+            <OtherName>铁达尼号(港/台)</OtherName>
+        </Name>
+        <Rating>9.4</Rating>
+        <Category type="剧情"/>
+        <Category type="爱情"/>
+        <Category type="灾难"/>
+        <Intro>
+            　　1912年4月10日，号称“世界工业史上的奇迹”的豪华客轮泰坦尼克号开始了自己的处女航，从英国的南安普顿出发驶往美国纽约。富家少女罗丝
+            <keyword>（凯特•温丝莱特）</keyword>
+            与母亲及未婚夫卡尔坐上了头等舱；另一边，放荡不羁的少年画家杰克
+            <keyword>（莱昂纳多·迪卡普里奥）</keyword>
+            也在码头的一场赌博中赢得了下等舱的船票。　　罗丝厌倦了上流社会虚伪的生活，不愿嫁给卡尔，打算投海自尽，被杰克救起。很快，美丽活泼的罗丝与英俊开朗的杰克相爱，杰克带罗丝参加下等舱的舞会、为她画像，二人的感情逐渐升温。　　1912年4月14日，星期天晚上，一个风平浪静的夜晚。泰坦尼克号撞上了冰山，“永不沉没的”泰坦尼克号面临沉船的命运，罗丝和杰克刚萌芽的爱情也将经历生死的考验。
+        </Intro>
+        <Date>1998-04-03(中国大陆)</Date>
+        <Length>194</Length>
+        <Director>詹姆斯·卡梅隆</Director>
+        <ScriptWriter>詹姆斯·卡梅隆</ScriptWriter>
+        <ActorList>
+            <Actor>莱昂纳多·迪卡普里奥</Actor>
+            <Actor>凯特·温丝莱特</Actor>
+            <Actor>比利·赞恩</Actor>
+            <Actor>凯西·贝茨</Actor>
+            <Actor>弗兰西丝·费舍</Actor>
+            <Actor>格劳瑞亚·斯图尔特</Actor>
+            <Actor>比尔·帕克斯顿</Actor>
+            <Actor>伯纳德·希尔</Actor>
+            <Actor>大卫·沃纳</Actor>
+            <Actor>维克多·加博</Actor>
+            <Actor>乔纳森·海德</Actor>
+            <Actor>苏茜·爱米斯</Actor>
+            <Actor>刘易斯·阿伯内西</Actor>
+            <Actor>尼古拉斯·卡斯柯恩</Actor>
+            <Actor>阿那托利·萨加洛维奇</Actor>
+            <Actor>丹尼·努齐</Actor>
+            <Actor>杰森·贝瑞</Actor>
+            <Actor>伊万·斯图尔特</Actor>
+            <Actor>艾恩·格拉法德</Actor>
+            <Actor>乔纳森·菲利普斯</Actor>
+            <Actor>马克·林赛·查普曼</Actor>
+            <Actor>理查德·格拉翰</Actor>
+            <Actor>保罗·布赖特威尔</Actor>
+            <Actor>艾瑞克·布里登</Actor>
+            <Actor>夏洛特·查顿</Actor>
+            <Actor>博纳德·福克斯</Actor>
+            <Actor>迈克尔·英塞恩</Actor>
+            <Actor>法妮·布雷特</Actor>
+            <Actor>马丁·贾维斯</Actor>
+            <Actor>罗莎琳·艾尔斯</Actor>
+            <Actor>罗切尔·罗斯</Actor>
+            <Actor>乔纳森·伊万斯-琼斯</Actor>
+            <Actor>西蒙·克雷恩</Actor>
+            <Actor>爱德华德·弗莱彻</Actor>
+            <Actor>斯科特·安德森</Actor>
+            <Actor>马丁·伊斯特</Actor>
+            <Actor>克雷格·凯利</Actor>
+            <Actor>格雷戈里·库克</Actor>
+            <Actor>利亚姆·图伊</Actor>
+            <Actor>詹姆斯·兰开斯特</Actor>
+            <Actor>艾尔莎·瑞雯</Actor>
+            <Actor>卢·帕尔特</Actor>
+            <Actor>泰瑞·佛瑞斯塔</Actor>
+            <Actor>凯文·德·拉·诺伊</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="7">
+        <Name>
+            <StandardName>千与千寻</StandardName>
+            <OtherName>神隐少女(台)</OtherName>
+            <OtherName>千与千寻的神隐</OtherName>
+            <OtherName>Spirited Away</OtherName>
+            <OtherName>A Voyage of Chihiro</OtherName>
+            <OtherName>Sen to Chihiro no kamikakushi</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="动画"/>
+        <Category type="奇幻"/>
+        <Intro>　　千寻和爸爸妈妈一同驱车前往新家，在郊外的小路上不慎进入了神秘的隧道——他们去到了另外一个诡异世界—一个中世纪的小镇。远处飘来食物的香味，爸爸妈妈大快朵颐，孰料之后变成了猪！这时小镇上渐渐来了许多样子古怪、半透明的人。　　千寻仓皇逃出，一个叫小白的人救了他，喂了她阻止身体消失的药，并且告诉她怎样去找锅炉爷爷以及汤婆婆，而且必须获得一份工作才能不被魔法变成别的东西。　　千寻在小白的帮助下幸运地获得了一份在浴池打杂的工作。渐渐她不再被那些怪模怪样的人吓倒，并从小玲那儿知道了小白是凶恶的汤婆婆的弟子。　　一次，千寻发现小白被一群白色飞舞的纸人打伤，为了救受伤的小白，她用河神送给她的药丸驱出了小白身体内的封印以及守封印的小妖精，但小白还是没有醒过来。　　为了救小白，千寻又踏上了她的冒险之旅。</Intro>
+        <Date>2019-06-21(中国大陆)</Date>
+        <Length>125</Length>
+        <Director>宫崎骏</Director>
+        <ScriptWriter>宫崎骏</ScriptWriter>
+        <ActorList>
+            <Actor>柊瑠美</Actor>
+            <Actor>入野自由</Actor>
+            <Actor>夏木真理</Actor>
+            <Actor>菅原文太</Actor>
+            <Actor>中村彰男</Actor>
+            <Actor>玉井夕海</Actor>
+            <Actor>神木隆之介</Actor>
+            <Actor>内藤刚志</Actor>
+            <Actor>泽口靖子</Actor>
+            <Actor>我修院达也</Actor>
+            <Actor>大泉洋</Actor>
+            <Actor>小林郁夫</Actor>
+            <Actor>上条恒彦</Actor>
+            <Actor>小野武彦</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="8">
+        <Name>
+            <StandardName>辛德勒的名单</StandardName>
+            <OtherName>舒特拉的名单(港)</OtherName>
+            <OtherName>辛德勒名单</OtherName>
+        </Name>
+        <Rating>9.5</Rating>
+        <Category type="剧情"/>
+        <Category type="历史"/>
+        <Category type="战争"/>
+        <Intro>
+            　　1939年，波兰在纳粹德国的统治下，党卫军对犹太人进行了隔离统治。德国商人奥斯卡·辛德勒
+            <keyword>（连姆·尼森LiamNeeson饰）</keyword>
+            来到德军统治下的克拉科夫，开设了一间搪瓷厂，生产军需用品。凭着出众的社交能力和大量的金钱，辛德勒和德军建立了良好的关系，他的工厂雇用犹太人工作，大发战争财。　　1943年，克拉科夫的犹太人遭到了惨绝人寰的大屠杀，辛德勒目睹这一切，受到了极大的震撼，他贿赂军官，让自己的工厂成为集中营的附属劳役营，在那些疯狂屠杀的日子里，他的工厂也成为了犹太人的避难所。　　1944年，德国战败前夕，屠杀犹太人的行动越发疯狂，辛德勒向德军军官开出了1200人的名单，倾家荡产买下了这些犹太人的生命。在那些暗无天日的岁月里，拯救一个人，就是拯救全世界。
+        </Intro>
+        <Date>1993-11-30(华盛顿首映)</Date>
+        <Length>195</Length>
+        <Director>史蒂文·斯皮尔伯格</Director>
+        <ScriptWriter>托马斯·肯尼利</ScriptWriter>
+        <ScriptWriter>斯蒂文·泽里安</ScriptWriter>
+        <ActorList>
+            <Actor>连姆·尼森</Actor>
+            <Actor>本·金斯利</Actor>
+            <Actor>拉尔夫·费因斯</Actor>
+            <Actor>卡罗琳·古多尔</Actor>
+            <Actor>乔纳森·萨加尔</Actor>
+            <Actor>艾伯丝·戴维兹</Actor>
+            <Actor>马尔戈萨·格贝尔</Actor>
+            <Actor>马克·伊瓦涅</Actor>
+            <Actor>碧翠斯·马科拉</Actor>
+            <Actor>安德烈·瑟韦林</Actor>
+            <Actor>弗里德里希·冯·图恩</Actor>
+            <Actor>克齐斯茨托夫·拉夫特</Actor>
+            <Actor>诺伯特·魏塞尔</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="9">
+        <Name>
+            <StandardName>盗梦空间</StandardName>
+            <OtherName>潜行凶间(港)</OtherName>
+            <OtherName>全面启动(台)</OtherName>
+            <OtherName>奠基</OtherName>
+            <OtherName>心灵犯案</OtherName>
+            <OtherName>记忆迷阵</OtherName>
+            <OtherName>记忆魔方</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="科幻"/>
+        <Category type="悬疑"/>
+        <Category type="冒险"/>
+        <Intro>
+            　　道姆·柯布
+            <keyword>（莱昂纳多·迪卡普里奥LeonardoDiCaprio饰）</keyword>
+            与同事阿瑟
+            <keyword>（约瑟夫·戈登-莱维特JosephGordon-Levitt饰）</keyword>
+            和纳什
+            <keyword>（卢卡斯·哈斯LukasHaas饰）</keyword>
+            在一次针对日本能源大亨齐藤
+            <keyword>（渡边谦饰）</keyword>
+            的盗梦行动中失败，反被齐藤利用。齐藤威逼利诱因遭通缉而流亡海外的柯布帮他拆分他竞争对手的公司，采取极端措施在其唯一继承人罗伯特·费希尔
+            <keyword>（希里安·墨菲CillianMurphy饰）</keyword>
+            的深层潜意识中种下放弃家族公司、自立门户的想法。为了重返美国，柯布偷偷求助于岳父迈尔斯
+            <keyword>（迈克尔·凯恩MichaelCaine饰）</keyword>
+            ，吸收了年轻的梦境设计师艾里阿德妮
+            <keyword>（艾伦·佩吉EllenPage饰）</keyword>
+            、梦境演员艾姆斯
+            <keyword>（汤姆·哈迪TomHardy饰）</keyword>
+            和药剂师约瑟夫
+            <keyword>（迪利普·劳DileepRao饰）</keyword>
+            加入行动。在一层层递进的梦境中，柯布不仅要对付费希尔潜意识的本能反抗，还必须直面已逝妻子梅尔
+            <keyword>（玛丽昂·歌迪亚MarionCotillard饰）</keyword>
+            的处处破坏，实际情况远比预想危险得多……
+        </Intro>
+        <Date>2010-09-01(中国大陆)</Date>
+        <Length>148</Length>
+        <Director>克里斯托弗·诺兰</Director>
+        <ScriptWriter>克里斯托弗·诺兰</ScriptWriter>
+        <ActorList>
+            <Actor>莱昂纳多·迪卡普里奥</Actor>
+            <Actor>约瑟夫·高登-莱维特</Actor>
+            <Actor>艾伦·佩吉</Actor>
+            <Actor>汤姆·哈迪</Actor>
+            <Actor>渡边谦</Actor>
+            <Actor>迪利普·劳</Actor>
+            <Actor>基里安·墨菲</Actor>
+            <Actor>汤姆·贝伦杰</Actor>
+            <Actor>玛丽昂·歌迪亚</Actor>
+            <Actor>皮特·波斯尔思韦特</Actor>
+            <Actor>迈克尔·凯恩</Actor>
+            <Actor>卢卡斯·哈斯</Actor>
+            <Actor>李太力</Actor>
+            <Actor>克莱尔·吉尔蕾</Actor>
+            <Actor>马格努斯·诺兰</Actor>
+            <Actor>泰勒·吉蕾</Actor>
+            <Actor>乔纳森·吉尔</Actor>
+            <Actor>水源士郎</Actor>
+            <Actor>冈本玉二</Actor>
+            <Actor>厄尔·卡梅伦</Actor>
+            <Actor>瑞恩·海沃德</Actor>
+            <Actor>米兰达·诺兰</Actor>
+            <Actor>拉什·费加</Actor>
+            <Actor>蒂姆·科勒赫</Actor>
+            <Actor>妲露拉·莱莉</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="10">
+        <Name>
+            <StandardName>忠犬八公的故事</StandardName>
+            <OtherName>忠犬小八(台)</OtherName>
+            <OtherName>秋田犬八千(港)</OtherName>
+            <OtherName>忠犬传奇</OtherName>
+        </Name>
+        <Rating>9.4</Rating>
+        <Category type="剧情"/>
+        <Intro>
+            　　八公
+            <keyword>（Forest饰）</keyword>
+            是一条谜一样的犬，因为没有人知道它从哪里来。教授帕克
+            <keyword>（理查·基尔RichardGere饰）</keyword>
+            在小镇的火车站拣到一只走失的小狗，冥冥中似乎注定小狗和帕克教授有着某种缘分，帕克一抱起这只小狗就再也放不下来，最终，帕克对小狗八公的疼爱感化了起初极力反对养狗的妻子卡特
+            <keyword>（琼·艾伦JoanAllen饰）</keyword>
+            。八公在帕克的呵护下慢慢长大，帕克上班时八公会一直把他送到车站，下班时八公也会早早便爬在车站等候，八公的忠诚让小镇的人家对它更加疼爱。有一天，八公在帕克要上班时表现异常，居然玩起了以往从来不会的捡球游戏，八公的表现让帕克非常满意，可是就是在那天，帕克因病去世。帕克的妻子、女儿安迪
+            <keyword>（萨拉·罗默尔SarahRoemer饰）</keyword>
+            及女婿迈克尔
+            <keyword>（罗比·萨布莱特RobbieSublett饰）</keyword>
+            怀着无比沉痛的心情埋葬了帕克，可是不明就里的八公却依然每天傍晚五点准时守候在小站的门前，等待着主人归来……　　本片根据上个世纪30年代发生在日本的真实故事改编，1987年在日本拍成电影后创造了40亿日元的票房。
+        </Intro>
+        <Date>2009-06-13(西雅图电影节)</Date>
+        <Length>93</Length>
+        <Director>拉斯·霍尔斯道姆</Director>
+        <ScriptWriter>斯蒂芬·P·林赛</ScriptWriter>
+        <ScriptWriter>新藤兼人</ScriptWriter>
+        <ActorList>
+            <Actor>理查·基尔</Actor>
+            <Actor>萨拉·罗默尔</Actor>
+            <Actor>琼·艾伦</Actor>
+            <Actor>罗比·萨布莱特</Actor>
+            <Actor>艾瑞克·阿瓦利</Actor>
+            <Actor>田川洋行</Actor>
+            <Actor>杰森·亚历山大</Actor>
+            <Actor>罗伯特·卡普荣</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="11">
+        <Name>
+            <StandardName>海上钢琴师</StandardName>
+            <OtherName>声光伴我飞(港)</OtherName>
+            <OtherName>一九零零的传奇</OtherName>
+            <OtherName>1900海上钢琴师</OtherName>
+            <OtherName>传奇1900</OtherName>
+            <OtherName>The Legend of 1900</OtherName>
+            <OtherName>The Legend Of The Pianist On The Ocean</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="音乐"/>
+        <Intro>
+            　　本片讲述了一个钢琴天才传奇的一生。　　1900年，Virginian号豪华邮轮上，一个孤儿被遗弃在头等舱，由船上的水手抚养长大，取名1900
+            <keyword>（蒂姆•罗斯饰）</keyword>
+            。1900慢慢长大，显示出了无师自通的非凡钢琴天赋，在船上的乐队表演钢琴，每个听过他演奏的人，都被深深打动。爵士乐鼻祖杰尼听说了1900的高超技艺，专门上船和他比赛，最后自叹弗如，黯然离去。　　可惜，这一切的事情都发生在海上，1900从来不愿踏上陆地，直到有一天，他爱上了一个女孩，情愫在琴键上流淌。他会不会为了爱情，踏上陆地开始新的生活，用他的琴声惊艳世界？他将怎样谱写自己非凡的人生。
+        </Intro>
+        <Date>2019-11-15(中国大陆)</Date>
+        <Length>165</Length>
+        <Director>朱塞佩·托纳多雷</Director>
+        <ScriptWriter>亚利桑德罗·巴里克</ScriptWriter>
+        <ScriptWriter>朱塞佩·托纳多雷</ScriptWriter>
+        <ActorList>
+            <Actor>蒂姆·罗斯</Actor>
+            <Actor>普路特·泰勒·文斯</Actor>
+            <Actor>比尔·努恩</Actor>
+            <Actor>克兰伦斯·威廉姆斯三世</Actor>
+            <Actor>梅兰尼·蒂埃里</Actor>
+            <Actor>皮特·沃恩</Actor>
+            <Actor>尼尔·奥布赖恩</Actor>
+            <Actor>阿尔贝托·巴斯克斯</Actor>
+            <Actor>加布里埃莱·拉维亚</Actor>
+            <Actor>科里·巴克</Actor>
+            <Actor>西德尼·科尔</Actor>
+            <Actor>Luigi De Luca</Actor>
+            <Actor>尼古拉·迪·平托</Actor>
+            <Actor>费米·依鲁福祖</Actor>
+            <Actor>伊斯顿·盖奇</Actor>
+            <Actor>凯文·麦克纳利</Actor>
+            <Actor>布莱恩·普林格</Actor>
+            <Actor>沙拉·鲁宾</Actor>
+            <Actor>希思科特·威廉姆斯</Actor>
+            <Actor>阿妮妲·扎格利亚</Actor>
+            <Actor>安吉洛·迪洛雷塔</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="12">
+        <Name>
+            <StandardName>机器人总动员</StandardName>
+            <OtherName>瓦力(台)</OtherName>
+            <OtherName>太空奇兵·威E(港)</OtherName>
+            <OtherName>星际总动员</OtherName>
+            <OtherName>地球废品分装员</OtherName>
+            <OtherName>机器人瓦力</OtherName>
+            <OtherName>walle</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="科幻"/>
+        <Category type="动画"/>
+        <Category type="冒险"/>
+        <Intro>
+            　　公元2805年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托Buynlarge的公司对地球垃圾进行清理，该公司开发了名为WALL·E
+            <keyword>（WasteAllocationLoadLifters–Earth地球废品分装员）</keyword>
+            的机器人担当此重任。　　这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活……　　本片荣获2009年第81届奥斯卡最佳动画长片奖。
+        </Intro>
+        <Date>2008-06-27(美国)</Date>
+        <Length>98</Length>
+        <Director>安德鲁·斯坦顿</Director>
+        <ScriptWriter>安德鲁·斯坦顿</ScriptWriter>
+        <ScriptWriter>吉姆·里尔顿</ScriptWriter>
+        <ScriptWriter>彼特·道格特</ScriptWriter>
+        <ActorList>
+            <Actor>本·贝尔特</Actor>
+            <Actor>艾丽莎·奈特</Actor>
+            <Actor>杰夫·格尔林</Actor>
+            <Actor>佛莱德·威拉特</Actor>
+            <Actor>西格妮·韦弗</Actor>
+            <Actor>MacInTalk</Actor>
+            <Actor>约翰·拉岑贝格</Actor>
+            <Actor>凯茜·纳基麦</Actor>
+            <Actor>泰迪·牛顿</Actor>
+            <Actor>鲍伯·伯根</Actor>
+            <Actor>洛丽·理查德森</Actor>
+            <Actor>吉姆·瓦德</Actor>
+            <Actor>彼特·道格特</Actor>
+            <Actor>安德鲁·斯坦顿</Actor>
+            <Actor>杰夫·皮金</Actor>
+            <Actor>约翰·齐甘</Actor>
+            <Actor>米凯·麦高万</Actor>
+            <Actor>雪莉·琳恩</Actor>
+            <Actor>克莱特·惠特克</Actor>
+            <Actor>唐纳德·富利洛夫</Actor>
+            <Actor>罗里·艾伦</Actor>
+            <Actor>杰斯·哈梅尔</Actor>
+            <Actor>拉瑞恩·纽曼</Actor>
+            <Actor>扬·拉布森</Actor>
+            <Actor>保罗·伊丁</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="13">
+        <Name>
+            <StandardName>三傻大闹宝莱坞</StandardName>
+            <OtherName>三个傻瓜(台)</OtherName>
+            <OtherName>作死不离3兄弟(港)</OtherName>
+            <OtherName>三个白痴</OtherName>
+            <OtherName>三个傻蛋</OtherName>
+            <OtherName>三个呆瓜</OtherName>
+            <OtherName>三生万悟</OtherName>
+            <OtherName>寻找兰彻</OtherName>
+            <OtherName>Three Idiots</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="剧情"/>
+        <Category type="喜剧"/>
+        <Category type="爱情"/>
+        <Category type="歌舞"/>
+        <Intro>
+            　　本片根据印度畅销书作家奇坦·巴哈特
+            <keyword>（ChetanBhagat）</keyword>
+            的处女作小说《五点人》
+            <keyword>（FivePointSomeone）</keyword>
+            改编而成。法兰
+            <keyword>（马德哈万RMadhavan饰）</keyword>
+            、拉杜
+            <keyword>（沙曼·乔希SharmanJoshi饰）</keyword>
+            与兰乔
+            <keyword>（阿米尔·汗AamirKhan饰）</keyword>
+            是皇家工程学院的学生，三人共居一室，结为好友。在以严格著称的学院里，兰乔是个非常与众不同的学生，他不死记硬背，甚至还公然顶撞校长“病毒”
+            <keyword>（波曼·伊拉尼BomanIrani饰）</keyword>
+            ，质疑他的教学方法。他不仅鼓动法兰与拉杜去勇敢追寻理想，还劝说校长的二女儿碧雅
+            <keyword>（卡琳娜·卡普KareenaKapoor饰）</keyword>
+            离开满眼铜臭的未婚夫。兰乔的特立独行引起了模范学生“消音器”
+            <keyword>（奥米·维嘉OmiVaidya饰）</keyword>
+            的不满，他约定十年后再与兰乔一决高下，看哪种生活方式更能取得成功。　　本片获孟买电影博览奖最佳影片、最佳导演、最佳配角
+            <keyword>（波曼·伊拉尼）</keyword>
+            、最佳剧本等六项大奖，并获国际印度电影协会最佳影片、最佳导演、最佳剧情、最佳摄影等十六项大奖。
+        </Intro>
+        <Date>2011-12-08(中国大陆)</Date>
+        <Length>171(印度)</Length>
+        <Director>拉吉库马尔·希拉尼</Director>
+        <ScriptWriter>维德胡·维诺德·乔普拉</ScriptWriter>
+        <ScriptWriter>拉吉库马尔·希拉尼</ScriptWriter>
+        <ScriptWriter>阿希贾特·乔希</ScriptWriter>
+        <ActorList>
+            <Actor>阿米尔·汗</Actor>
+            <Actor>卡琳娜·卡普尔</Actor>
+            <Actor>马达范</Actor>
+            <Actor>沙尔曼·乔希</Actor>
+            <Actor>奥米·瓦依达</Actor>
+            <Actor>博曼·伊拉尼</Actor>
+            <Actor>莫娜·辛格</Actor>
+            <Actor>拉杰夫·拉宾德拉纳特安</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="14">
+        <Name>
+            <StandardName>楚门的世界</StandardName>
+            <OtherName>真人Show(港)</OtherName>
+            <OtherName>真人戏</OtherName>
+            <OtherName>真人世界</OtherName>
+            <OtherName>楚门秀</OtherName>
+            <OtherName>真人秀</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="科幻"/>
+        <Intro>
+            　　楚门
+            <keyword>（金•凯瑞JimCarrey饰）</keyword>
+            是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。　　直到有一天，他忽然发觉自己似乎一直在被人跟踪，无论他走到哪里，干什么事情。这种感觉愈来愈强烈。楚门决定不惜一切代价逃离这个他生活了30多年的地方，去寻找他的初恋女友。　　但他却发现自己怎样也逃不出去。真相其实很残忍。
+        </Intro>
+        <Date>1998-06-05(美国)</Date>
+        <Length>103</Length>
+        <Director>彼得·威尔</Director>
+        <ScriptWriter>安德鲁·尼科尔</ScriptWriter>
+        <ActorList>
+            <Actor>金·凯瑞</Actor>
+            <Actor>劳拉·琳妮</Actor>
+            <Actor>艾德·哈里斯</Actor>
+            <Actor>诺亚·艾默里奇</Actor>
+            <Actor>娜塔莎·麦克艾霍恩</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="15">
+        <Name>
+            <StandardName>放牛班的春天</StandardName>
+            <OtherName>歌声伴我心(港)</OtherName>
+            <OtherName>唱诗班男孩</OtherName>
+            <OtherName>The Chorus</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="音乐"/>
+        <Intro>
+            　　1949年的法国乡村，音乐家克莱门特
+            <keyword>（杰勒德•尊诺饰）</keyword>
+            到了一间外号叫“塘低”的男子寄宿学校当助理教师。学校里的学生大部分都是难缠的问题儿童，体罚在这里司空见惯，学校的校长
+            <keyword>（弗朗西斯•贝尔兰德饰）</keyword>
+            只顾自己的前途，残暴高压。　　性格沉静的克莱门特尝试用自己的方法改善这种状况，他重新创作音乐作品，组织合唱团，决定用音乐的方法来打开学生们封闭的心灵。　　然而，事情并不顺利，克莱门特发现学生皮埃尔•莫安琦
+            <keyword>（尚•巴堤•莫里耶饰）</keyword>
+            拥有非同一般的音乐天赋，但是单亲家庭长大的他，性格异常敏感孤僻，怎样释放皮埃尔的音乐才能，让克莱门特头痛不已；同时，他与皮埃尔母亲的感情也渐渐微妙起来。
+        </Intro>
+        <Date>2004-10-16(中国大陆)</Date>
+        <Length>97</Length>
+        <Director>克里斯托夫·巴拉蒂</Director>
+        <ScriptWriter>乔治·沙普罗</ScriptWriter>
+        <ScriptWriter>勒·惠勒</ScriptWriter>
+        <ScriptWriter>诺埃-诺尔</ScriptWriter>
+        <ScriptWriter>克里斯托夫·巴拉蒂</ScriptWriter>
+        <ScriptWriter>菲利普·洛佩斯-屈瓦尔</ScriptWriter>
+        <ActorList>
+            <Actor>热拉尔·朱尼奥</Actor>
+            <Actor>弗朗索瓦·贝莱昂</Actor>
+            <Actor>凯德·麦拉德</Actor>
+            <Actor>让-保罗·博奈雷</Actor>
+            <Actor>玛丽·布奈尔</Actor>
+            <Actor>让-巴蒂斯特·莫尼耶</Actor>
+            <Actor>马科森斯·珀林</Actor>
+            <Actor>格雷戈里·加迪诺尔</Actor>
+            <Actor>托马斯·布伦门塔尔</Actor>
+            <Actor>西里尔·伯尔尼科特</Actor>
+            <Actor>西蒙·法戈特</Actor>
+            <Actor>泰奥杜尔·卡雷-卡赛尼</Actor>
+            <Actor>菲利普·杜·詹纳兰德</Actor>
+            <Actor>埃里克·德斯玛莱茨</Actor>
+            <Actor>狄迪尔·弗拉蒙</Actor>
+            <Actor>雅克·贝汉</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="16">
+        <Name>
+            <StandardName>星际穿越</StandardName>
+            <OtherName>星际启示录(港)</OtherName>
+            <OtherName>星际效应(台)</OtherName>
+            <OtherName>星际空间</OtherName>
+            <OtherName>星际之间</OtherName>
+            <OtherName>星际远航</OtherName>
+            <OtherName>星际</OtherName>
+            <OtherName>Flora's Letter</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="科幻"/>
+        <Category type="冒险"/>
+        <Intro>
+            　　近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀
+            <keyword>（马修·麦康纳MatthewMcConaughey饰）</keyword>
+            接连在女儿墨菲
+            <keyword>（麦肯吉·弗依MackenzieFoy饰）</keyword>
+            的书房发现奇怪的重力场现象，随即得知在某个未知区域内前NASA成员仍秘密进行一个拯救人类的计划。多年以前土星附近出现神秘虫洞，NASA借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授
+            <keyword>（迈克尔·凯恩MichaelCaine饰）</keyword>
+            的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德
+            <keyword>（安妮·海瑟薇AnneHathaway饰）</keyword>
+            、罗米利
+            <keyword>（大卫·吉雅西DavidGyasi饰）</keyword>
+            、多伊尔
+            <keyword>（韦斯·本特利WesBentley饰）</keyword>
+            搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。　　他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……
+        </Intro>
+        <Date>2014-11-12(中国大陆)</Date>
+        <Length>169</Length>
+        <Director>克里斯托弗·诺兰</Director>
+        <ScriptWriter>乔纳森·诺兰</ScriptWriter>
+        <ScriptWriter>克里斯托弗·诺兰</ScriptWriter>
+        <ActorList>
+            <Actor>马修·麦康纳</Actor>
+            <Actor>安妮·海瑟薇</Actor>
+            <Actor>杰西卡·查斯坦</Actor>
+            <Actor>卡西·阿弗莱克</Actor>
+            <Actor>迈克尔·凯恩</Actor>
+            <Actor>马特·达蒙</Actor>
+            <Actor>麦肯吉·弗依</Actor>
+            <Actor>蒂莫西·柴勒梅德</Actor>
+            <Actor>艾伦·伯斯汀</Actor>
+            <Actor>约翰·利思戈</Actor>
+            <Actor>韦斯·本特利</Actor>
+            <Actor>大卫·吉亚西</Actor>
+            <Actor>比尔·欧文</Actor>
+            <Actor>托弗·戈瑞斯</Actor>
+            <Actor>科莱特·沃夫</Actor>
+            <Actor>弗朗西斯·X·麦卡蒂</Actor>
+            <Actor>安德鲁·博尔巴</Actor>
+            <Actor>乔什·斯图沃特</Actor>
+            <Actor>莱雅·卡里恩斯</Actor>
+            <Actor>利亚姆·迪金森</Actor>
+            <Actor>杰夫·赫普内尔</Actor>
+            <Actor>伊莱耶斯·加贝尔</Actor>
+            <Actor>布鲁克·史密斯</Actor>
+            <Actor>大卫·奥伊罗</Actor>
+            <Actor>威廉姆·德瓦内</Actor>
+            <Actor>拉什·费加</Actor>
+            <Actor>格里芬·弗雷泽</Actor>
+            <Actor>弗洛拉·诺兰</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="17">
+        <Name>
+            <StandardName>大话西游之大圣娶亲</StandardName>
+            <OtherName>西游记完结篇仙履奇缘</OtherName>
+            <OtherName>齐天大圣西游记</OtherName>
+            <OtherName>大话东游之二</OtherName>
+            <OtherName>A Chinese Odyssey Part Two - Cinderella</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="喜剧"/>
+        <Category type="爱情"/>
+        <Category type="奇幻"/>
+        <Category type="古装"/>
+        <Intro>
+            　　至尊宝
+            <keyword>（周星驰饰）</keyword>
+            被月光宝盒带回到五百年前，遇见紫霞仙子
+            <keyword>（朱茵饰）</keyword>
+            ，被对方打上烙印成为对方的人，并发觉自己已变成孙悟空。　　紫霞与青霞
+            <keyword>（朱茵饰）</keyword>
+            本是如来佛祖座前日月神灯的灯芯
+            <keyword>（白天是紫霞，晚上是青霞）</keyword>
+            ，二人虽然同一肉身却仇恨颇深，因此紫霞立下誓言，谁能拔出她手中的紫青宝剑，谁就是她的意中人。紫青宝剑被至尊宝于不经意间拔出，紫霞决定以身相许，却遭一心记挂白晶晶
+            <keyword>（莫文蔚饰）</keyword>
+            的至尊宝拒绝。后牛魔王救下迷失在沙漠中的紫霞，并逼紫霞与他成婚，关键时刻，至尊宝现身。
+        </Intro>
+        <Date>1995-02-04(中国香港)</Date>
+        <Length>95</Length>
+        <Director>刘镇伟</Director>
+        <ScriptWriter>刘镇伟</ScriptWriter>
+        <ActorList>
+            <Actor>周星驰</Actor>
+            <Actor>吴孟达</Actor>
+            <Actor>朱茵</Actor>
+            <Actor>蔡少芬</Actor>
+            <Actor>蓝洁瑛</Actor>
+            <Actor>莫文蔚</Actor>
+            <Actor>罗家英</Actor>
+            <Actor>刘镇伟</Actor>
+            <Actor>陆树铭</Actor>
+            <Actor>李健仁</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="18">
+        <Name>
+            <StandardName>熔炉</StandardName>
+            <OtherName>无声呐喊(港)</OtherName>
+            <OtherName>漩涡</OtherName>
+            <OtherName>Silenced</OtherName>
+            <OtherName>The Crucible</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Intro>
+            　　来自首尔的哑语美术老师仁浩
+            <keyword>（孔宥饰）</keyword>
+            来到雾津，应聘慈爱聋哑人学校。天降大雾，他意外撞车，维修时邂逅了人权组织成员柔珍
+            <keyword>（郑有美饰）</keyword>
+            。仁浩妻子早亡，8岁女儿天生哮喘由祖母照看，所以他不辞辛苦谋职养家。然而，双胞胎的校长与教导主任竟逼仁浩索贿5千万韩元。同时，仁浩逐渐发现学校笼罩着一种紧张压抑的气氛，令人窒息。有三个孩子引人关注：聪颖的金妍斗
+            <keyword>（金贤秀饰）</keyword>
+            、贪吃的陈宥利
+            <keyword>（郑仁絮饰）</keyword>
+            和弟弟自杀身亡的全民秀
+            <keyword>（白承焕饰）</keyword>
+            ，民秀总是满脸淤青。下课后，仁浩还听到女厕所中有呼喊与哭泣，在门卫的阻拦下他未深究。之后。他意外目睹了校长行贿警察，教导员毒打民秀，宿导溺罚妍斗的行径。一个惊天的隐秘被慢慢揭开，真相令韩国震惊……　　本片取材于2005年光州一所聋哑障碍人学校的真实事件，改编自韩国作家孔枝泳的同名小说。
+        </Intro>
+        <Date>2011-09-22(韩国)</Date>
+        <Length>125</Length>
+        <Director>黄东赫</Director>
+        <ScriptWriter>黄东赫</ScriptWriter>
+        <ScriptWriter>孔枝泳</ScriptWriter>
+        <ActorList>
+            <Actor>孔侑</Actor>
+            <Actor>郑有美</Actor>
+            <Actor>金贤秀</Actor>
+            <Actor>郑仁絮</Actor>
+            <Actor>白承焕</Actor>
+            <Actor>张光</Actor>
+            <Actor>金民尚</Actor>
+            <Actor>林贤成</Actor>
+            <Actor>金周灵</Actor>
+            <Actor>严孝燮</Actor>
+            <Actor>全国焕</Actor>
+            <Actor>崔镇浩</Actor>
+            <Actor>金志映</Actor>
+            <Actor>严智星</Actor>
+            <Actor>许在浩</Actor>
+            <Actor>张素妍</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="19">
+        <Name>
+            <StandardName>疯狂动物城</StandardName>
+            <OtherName>优兽大都会(港)</OtherName>
+            <OtherName>动物方城市(台)</OtherName>
+            <OtherName>动物乌托邦</OtherName>
+            <OtherName>动物大都会</OtherName>
+            <OtherName>Zootropolis</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="喜剧"/>
+        <Category type="动画"/>
+        <Category type="冒险"/>
+        <Intro>
+            　　故事发生在一个所有哺乳类动物和谐共存的美好世界中，兔子朱迪
+            <keyword>（金妮弗·古德温GinniferGoodwin配音）</keyword>
+            从小就梦想着能够成为一名惩恶扬善的刑警，凭借着智慧和努力，朱迪成功的从警校中毕业进入了疯狂动物城警察局，殊不知这里是大型肉食类动物的领地，作为第一只，也是唯一的小型食草类动物，朱迪会遇到怎样的故事呢？　　近日里，城中接连发生动物失踪案件，就在全部警员都致力于调查案件真相之时，朱迪却被局长
+            <keyword>（伊德瑞斯·艾尔巴IdrisElba配音）</keyword>
+            发配成为了一名无足轻重的交警。某日，正在执勤的兔子遇见了名为尼克
+            <keyword>（杰森·贝特曼JasonBateman配音）</keyword>
+            的狐狸，两人不打不相识，之后又误打误撞的接受了寻找失踪的水獭先生的任务，如果不能在两天之内找到水獭先生，朱迪就必须自愿离开警局。朱迪找到了尼克，两人联手揭露了一个隐藏在疯狂动物城之中的惊天秘密。
+        </Intro>
+        <Date>2016-03-04(中国大陆/美国)</Date>
+        <Length>109(中国大陆)</Length>
+        <Director>拜伦·霍华德 / 瑞奇·摩尔 / 杰拉德·布什</Director>
+        <ScriptWriter>拜伦·霍华德</ScriptWriter>
+        <ScriptWriter>瑞奇·摩尔</ScriptWriter>
+        <ScriptWriter>杰拉德·布什</ScriptWriter>
+        <ScriptWriter>吉姆·里尔顿</ScriptWriter>
+        <ScriptWriter>乔西·特立尼达</ScriptWriter>
+        <ScriptWriter>菲尔·约翰斯顿</ScriptWriter>
+        <ScriptWriter>珍妮弗·李</ScriptWriter>
+        <ActorList>
+            <Actor>金妮弗·古德温</Actor>
+            <Actor>杰森·贝特曼</Actor>
+            <Actor>伊德里斯·艾尔巴</Actor>
+            <Actor>珍妮·斯蕾特</Actor>
+            <Actor>内特·托伦斯</Actor>
+            <Actor>邦尼·亨特</Actor>
+            <Actor>唐·雷克</Actor>
+            <Actor>汤米·钟</Actor>
+            <Actor>J·K·西蒙斯</Actor>
+            <Actor>奥克塔维亚·斯宾瑟</Actor>
+            <Actor>艾伦·图代克</Actor>
+            <Actor>夏奇拉</Actor>
+            <Actor>雷蒙德·S·佩尔西</Actor>
+            <Actor>德拉·萨巴</Actor>
+            <Actor>莫里斯·拉马奇</Actor>
+            <Actor>菲尔·约翰斯顿</Actor>
+            <Actor>约翰·迪·马吉欧</Actor>
+            <Actor>凯蒂·洛斯</Actor>
+            <Actor>吉塔·雷迪</Actor>
+            <Actor>杰西·科尔蒂</Actor>
+            <Actor>汤米·利斯特</Actor>
+            <Actor>乔希·达拉斯</Actor>
+            <Actor>瑞奇·摩尔</Actor>
+            <Actor>凯斯·索西</Actor>
+            <Actor>彼得·曼斯布里奇</Actor>
+            <Actor>拜伦·霍华德</Actor>
+            <Actor>杰拉德·布什</Actor>
+            <Actor>马克·史密斯</Actor>
+            <Actor>乔西·特立尼达</Actor>
+            <Actor>约翰·拉维尔</Actor>
+            <Actor>克里斯汀·贝尔</Actor>
+            <Actor>吉尔·科德斯</Actor>
+            <Actor>梅利莎·古德温</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="20">
+        <Name>
+            <StandardName>无间道</StandardName>
+            <OtherName>Infernal Affairs</OtherName>
+            <OtherName>Mou gaan dou</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="剧情"/>
+        <Category type="悬疑"/>
+        <Category type="犯罪"/>
+        <Intro>
+            　　1991年，香港黑帮三合会会员刘健明
+            <keyword>（刘德华）</keyword>
+            听从老大韩琛
+            <keyword>（曾志伟）</keyword>
+            的吩咐，加入警察部队成为黑帮卧底，韩琛许诺刘健明会帮其在七年后晋升为见习督察。1992年，警察训练学校优秀学员陈永仁
+            <keyword>（梁朝伟）</keyword>
+            被上级要求深入到三合会做卧底，终极目标是成为韩琛身边的红人。2002年，两人都不负重望，也都身背重压，刘健明渐想成为一个真正的好人，陈永仁则盼着尽快回归警察身份。　　重案组从陈永仁手中获悉一批毒品交易情报，锁紧目标人物韩琛，没料情报被刘健明泄出，双方行动均告失败。但此事将双方均有卧底的事实暴露，引发双方高层清除内鬼的决心。命运迥异又相似的刘健明和陈永仁开始在无间道的旅程中接受严峻考验。
+        </Intro>
+        <Date>2002-12-12(中国香港)</Date>
+        <Length>101</Length>
+        <Director>刘伟强 / 麦兆辉</Director>
+        <ScriptWriter>麦兆辉</ScriptWriter>
+        <ScriptWriter>庄文强</ScriptWriter>
+        <ActorList>
+            <Actor>刘德华</Actor>
+            <Actor>梁朝伟</Actor>
+            <Actor>黄秋生</Actor>
+            <Actor>曾志伟</Actor>
+            <Actor>郑秀文</Actor>
+            <Actor>陈慧琳</Actor>
+            <Actor>陈冠希</Actor>
+            <Actor>余文乐</Actor>
+            <Actor>杜汶泽</Actor>
+            <Actor>林家栋</Actor>
+            <Actor>萧亚轩</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="21">
+        <Name>
+            <StandardName>龙猫</StandardName>
+            <OtherName>邻居托托罗</OtherName>
+            <OtherName>邻家的豆豆龙</OtherName>
+            <OtherName>隔壁的特特罗</OtherName>
+            <OtherName>Tonari no Totoro</OtherName>
+            <OtherName>My Neighbor Totoro</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="动画"/>
+        <Category type="奇幻"/>
+        <Category type="冒险"/>
+        <Intro>　　小月的母亲生病住院了，父亲带着她与四岁的妹妹小梅到乡间的居住。她们对那里的环境都感到十分新奇，也发现了很多有趣的事情。她们遇到了很多小精灵，她们来到属于她们的环境中，看到了她们世界中很多的奇怪事物，更与一只大大胖胖的龙猫成为了朋友。龙猫与小精灵们利用他们的神奇力量，为小月与妹妹带来了很多神奇的景观，令她们大开眼界。　　妹妹小梅常常挂念生病中的母亲，嚷着要姐姐带着她去看母亲，但小月拒绝了。小梅竟然自己前往，不料途中迷路了，小月只好寻找她的龙猫及小精灵朋友们帮助。</Intro>
+        <Date>2018-12-14(中国大陆)</Date>
+        <Length>86</Length>
+        <Director>宫崎骏</Director>
+        <ScriptWriter>宫崎骏</ScriptWriter>
+        <ActorList>
+            <Actor>日高法子</Actor>
+            <Actor>坂本千夏</Actor>
+            <Actor>糸井重里</Actor>
+            <Actor>岛本须美</Actor>
+            <Actor>北林谷荣</Actor>
+            <Actor>高木均</Actor>
+            <Actor>雨笠利幸</Actor>
+            <Actor>丸山裕子</Actor>
+            <Actor>广濑正志</Actor>
+            <Actor>鹫尾真知子</Actor>
+            <Actor>铃木玲子</Actor>
+            <Actor>千叶繁</Actor>
+            <Actor>龙田直树</Actor>
+            <Actor>鳕子</Actor>
+            <Actor>西村朋纮</Actor>
+            <Actor>石田光子</Actor>
+            <Actor>神代知衣</Actor>
+            <Actor>中村大树</Actor>
+            <Actor>水谷优子</Actor>
+            <Actor>平松晶子</Actor>
+            <Actor>大谷育江</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="22">
+        <Name>
+            <StandardName>教父</StandardName>
+            <OtherName>Mario Puzo's The Godfather</OtherName>
+        </Name>
+        <Rating>9.3</Rating>
+        <Category type="剧情"/>
+        <Category type="犯罪"/>
+        <Intro>
+            　　40年代的美国，“教父”维托·柯里昂
+            <keyword>（马龙·白兰度饰）</keyword>
+            是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。　　因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子逊尼被仇家杀害；小儿子麦克
+            <keyword>（阿尔·帕西诺饰）</keyword>
+            也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。　　年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？　　血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。
+        </Intro>
+        <Date>1972-03-15(纽约首映)</Date>
+        <Length>175 </Length>
+        <Director>弗朗西斯·福特·科波拉</Director>
+        <ScriptWriter>马里奥·普佐</ScriptWriter>
+        <ScriptWriter>弗朗西斯·福特·科波拉</ScriptWriter>
+        <ActorList>
+            <Actor>马龙·白兰度</Actor>
+            <Actor>阿尔·帕西诺</Actor>
+            <Actor>詹姆斯·肯恩</Actor>
+            <Actor>理查德·卡斯特尔诺</Actor>
+            <Actor>罗伯特·杜瓦尔</Actor>
+            <Actor>斯特林·海登</Actor>
+            <Actor>约翰·马利</Actor>
+            <Actor>理查德·康特</Actor>
+            <Actor>艾尔·勒提埃里</Actor>
+            <Actor>黛安·基顿</Actor>
+            <Actor>阿贝·维高达</Actor>
+            <Actor>塔莉娅·夏尔</Actor>
+            <Actor>吉亚尼·罗素</Actor>
+            <Actor>约翰·凯泽尔</Actor>
+            <Actor>鲁迪·邦德</Actor>
+            <Actor>兰尼·蒙大拿</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="23">
+        <Name>
+            <StandardName>当幸福来敲门</StandardName>
+            <OtherName>寻找快乐的故事(港)</OtherName>
+            <OtherName>追求快乐</OtherName>
+            <OtherName>幸福追击</OtherName>
+            <OtherName>The Pursuit of Happiness</OtherName>
+        </Name>
+        <Rating>9.1</Rating>
+        <Category type="剧情"/>
+        <Category type="家庭"/>
+        <Category type="传记"/>
+        <Intro>
+            　　克里斯•加纳
+            <keyword>（威尔·史密斯WillSmith饰）</keyword>
+            用尽全部积蓄买下了高科技治疗仪，到处向医院推销，可是价格高昂，接受的人不多。就算他多努力都无法提供一个良好的生活环境给妻儿，妻子
+            <keyword>（桑迪·牛顿ThandieNewton饰）</keyword>
+            最终选择离开家。从此他带着儿子克里斯托夫
+            <keyword>（贾登·史密斯JadenSmith饰）</keyword>
+            相依为命。克里斯好不容易争取回来一个股票投资公司实习的机会，就算没有报酬，成功机会只有百分之五，他仍努力奋斗，儿子是他的力量。他看尽白眼，与儿子躲在地铁站里的公共厕所里，住在教堂的收容所里……他坚信，幸福明天就会来临。
+        </Intro>
+        <Date>2008-01-17(中国大陆)</Date>
+        <Length>117</Length>
+        <Director>加布里埃莱·穆奇诺</Director>
+        <ScriptWriter>斯蒂夫·康拉德</ScriptWriter>
+        <ActorList>
+            <Actor>威尔·史密斯</Actor>
+            <Actor>贾登·史密斯</Actor>
+            <Actor>坦迪·牛顿</Actor>
+            <Actor>布莱恩·豪威</Actor>
+            <Actor>詹姆斯·凯伦</Actor>
+            <Actor>丹·卡斯泰兰尼塔</Actor>
+            <Actor>柯特·富勒</Actor>
+            <Actor>塔卡尤·费舍尔</Actor>
+            <Actor>凯文·韦斯特</Actor>
+            <Actor>乔治·张</Actor>
+            <Actor>戴维·迈克尔·西尔弗曼</Actor>
+            <Actor>多米尼克·博夫</Actor>
+            <Actor>杰弗·卡伦</Actor>
+            <Actor>乔伊芙·拉文</Actor>
+            <Actor>斯科特·克拉斯</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="24">
+        <Name>
+            <StandardName>怦然心动</StandardName>
+            <OtherName>萌动青春</OtherName>
+            <OtherName>青春萌动</OtherName>
+            <OtherName>冒失</OtherName>
+            <OtherName>梧桐树之恋</OtherName>
+        </Name>
+        <Rating>9.1</Rating>
+        <Category type="剧情"/>
+        <Category type="喜剧"/>
+        <Category type="爱情"/>
+        <Intro>
+            　　布莱斯
+            <keyword>（卡兰•麦克奥利菲CallanMcAuliffe饰）</keyword>
+            全家搬到小镇，邻家女孩朱丽
+            <keyword>（玛德琳•卡罗尔MadelineCarroll饰）</keyword>
+            前来帮忙。她对他一见钟情，心愿是获得他的吻。两人是同班同学，她一直想方设法接近他，但是他避之不及。她喜欢爬在高高的梧桐树上看风景。但因为施工，树被要被砍掉，她誓死捍卫，希望他并肩作战，但是他退缩了。她的事迹上了报纸，外公对她颇有好感，令他十分困惑。她凭借鸡下蛋的项目获得了科技展第一名，成了全场焦点，令他黯然失色。她把自家鸡蛋送给他，他听家人怀疑她家鸡蛋不卫生，便偷偷把鸡蛋丢掉。她得知真相，很伤心，两人关系跌入冰点。她跟家人诉说，引发争吵。原来父亲一直攒钱照顾傻弟弟，所以生活拮据。她理解了父母，自己动手，还得到了他外公的鼎力相助。他向她道歉，但是并未解决问题。他开始关注她。鸡蛋风波未平，家庭晚宴与午餐男孩评选又把两人扯在了一起……
+        </Intro>
+        <Date>2010-07-26(好莱坞首映)</Date>
+        <Length>90</Length>
+        <Director>罗伯·莱纳</Director>
+        <ScriptWriter>罗伯·莱纳</ScriptWriter>
+        <ScriptWriter>安德鲁·沙因曼</ScriptWriter>
+        <ScriptWriter>文德琳·范·德拉安南</ScriptWriter>
+        <ActorList>
+            <Actor>玛德琳·卡罗尔</Actor>
+            <Actor>卡兰·麦克奥利菲</Actor>
+            <Actor>瑞贝卡·德·莫妮</Actor>
+            <Actor>安东尼·爱德华兹</Actor>
+            <Actor>约翰·马奥尼</Actor>
+            <Actor>佩内洛普·安·米勒</Actor>
+            <Actor>艾丹·奎因</Actor>
+            <Actor>凯文·韦斯曼</Actor>
+            <Actor>摩根·莉莉</Actor>
+            <Actor>瑞安·克茨纳</Actor>
+            <Actor>吉莉安·普法夫</Actor>
+            <Actor>迈克尔·博萨</Actor>
+            <Actor>博·勒纳</Actor>
+            <Actor>杰奎琳·埃沃拉</Actor>
+            <Actor>泰勒·格鲁秀斯</Actor>
+            <Actor>艾莉·布莱恩特</Actor>
+            <Actor>阿什莉·泰勒</Actor>
+            <Actor>伊瑟尔·布罗萨德</Actor>
+            <Actor>科迪·霍恩</Actor>
+            <Actor>迈克尔·博尔顿</Actor>
+            <Actor>肖恩·哈珀</Actor>
+            <Actor>斯戴芬妮·斯考特</Actor>
+            <Actor>帕特丽夏·伦茨</Actor>
+            <Actor>马修·戈尔德</Actor>
+            <Actor>阿罗拉·凯瑟琳·史密斯</Actor>
+            <Actor>凯莉·唐纳利</Actor>
+            <Actor>索菲亚·撒高</Actor>
+            <Actor>米歇尔·梅斯默</Actor>
+            <Actor>Scott Joel Gizicki</Actor>
+            <Actor>Rod Myers</Actor>
+            <Actor>Kara Pacitto</Actor>
+            <Actor>Katelyn Pacitto</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="25">
+        <Name>
+            <StandardName>触不可及</StandardName>
+            <OtherName>闪亮人生(港)</OtherName>
+            <OtherName>逆转人生(台)</OtherName>
+            <OtherName>无法触碰</OtherName>
+            <OtherName>最佳拍档</OtherName>
+            <OtherName>不可触碰</OtherName>
+            <OtherName>不可触摸</OtherName>
+            <OtherName>Untouchable</OtherName>
+            <OtherName>The Intouchables</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="剧情"/>
+        <Category type="喜剧"/>
+        <Intro>
+            　　因为一次跳伞事故，白人富翁菲利普Philippe
+            <keyword>（弗朗索瓦·克鲁塞FrançoisCluzet饰）</keyword>
+            瘫痪在床，欲招聘一名全职陪护。由于薪酬高，应聘者云集，个个舌灿莲花，却无法打动他的心。直到黑人德希斯Driss
+            <keyword>（奥玛·赛OmarSy饰）</keyword>
+            的出现才让他作出决定。德希斯刚从监狱出来，背负家庭重担，一心只想寻张辞退信以申领救济金，而且他明显对女助理的兴趣要远大于这份工作。但是菲利普还是一眼相中了这个小伙子。于是，德希斯开始了一个月的试用期。虽然舒适的豪宅环境让他倍感虚荣，但是他仍面临很多挑战：不仅要为菲利普作身体复健，还得给他洗浴、灌肠、拆信、穿丝袜等。起初，两人的思维方式与价值观大相径庭，但是，随着了解的不断深入，他们成为了朋友……　　本片取材于真实事件，获2011年东京电影节最佳影片金麒麟奖，弗朗索瓦·克鲁塞与奥玛·赛分享影帝桂冠。
+        </Intro>
+        <Date>2011-11-02(法国)</Date>
+        <Length>112</Length>
+        <Director>奥利维埃·纳卡什 / 埃里克·托莱达诺</Director>
+        <ScriptWriter>奥利维埃·纳卡什</ScriptWriter>
+        <ScriptWriter>埃里克·托莱达诺</ScriptWriter>
+        <ActorList>
+            <Actor>弗朗索瓦·克鲁塞</Actor>
+            <Actor>奥玛·希</Actor>
+            <Actor>安娜·勒尼</Actor>
+            <Actor>奥德雷·弗勒罗</Actor>
+            <Actor>托马·索利韦尔</Actor>
+        </ActorList>
+    </Movie>
+</MovieRank>
