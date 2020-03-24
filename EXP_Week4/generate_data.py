@@ -1,10 +1,13 @@
+# 
+# Author: Jeromy Zhang
+# Date: 18/3/2020
+#
 import requests
 from bs4 import BeautifulSoup
 import time
 import os
 import sys
 import re
-
 
 def request_douban(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36'}
@@ -19,25 +22,7 @@ def request_douban(url):
     except requests.RequestException:
         return None
 
-n = 1
-
-
-def saveToEveryFile(soup, *parm):
-    if soup.find(class_= 'all hidden') is not None:
-        intro = soup.find(class_='all hidden').get_text().replace(u' ','')
-    else:
-        intro = soup.find(property='v:summary').get_text().replace(u' ','')
-    item_director = soup.find(text='导演').parent.parent.find(class_='attrs').get_text().strip()
-    itemkind = ''
-    for i in soup.find_all(property='v:genre'):
-        itemkind = itemkind + ' ' + i.get_text().strip()
-    myPath = os.path.join(os.getcwd(), "exp" + os.sep + "data" + os.sep + "movie" + str(n) + ".txt")  # windows下去掉exp + os.sep +
-    myfile = open(myPath, "w", encoding='utf-8')
-    for item in parm:
-        myfile.write(item)
-    myfile.write("导演:" + item_director + "\n")
-    myfile.write('类型:' + itemkind + '\n')
-    myfile.write(intro+"\n")
+n = 51
 
 def generateXMLCode(soup,stdName):
     if soup.find(class_= 'all hidden') is not None:
@@ -48,10 +33,12 @@ def generateXMLCode(soup,stdName):
     xmlFile.write("<Movie Rank=\"" + str(n) + "\">\n")
     xmlFile.write("<Name>\n")
     xmlFile.write("<StandardName>" + stdName + "</StandardName>\n")
-    other_name_list = soup.find(text='又名:').parent.next.next
-    other_name_list = other_name_list.split('/ ')
-    for i in other_name_list:
-        xmlFile.write("<OtherName>" + i.strip() + "</OtherName>\n")
+    other_name_parent = soup.find(text='又名:')
+    if other_name_parent != None:
+        other_name_list = other_name_parent.parent.next.next
+        other_name_list = other_name_list.split('/ ')
+        for i in other_name_list:
+            xmlFile.write("<OtherName>" + i.strip() + "</OtherName>\n")
     xmlFile.write("</Name>\n")
     rating = soup.find(property='v:average').get_text()
     xmlFile.write("<Rating>"+str(rating)+"</Rating>\n")
@@ -64,6 +51,7 @@ def generateXMLCode(soup,stdName):
     release_date = soup.find(property='v:initialReleaseDate').get_text()
     xmlFile.write("<Date>"+release_date+"</Date>\n")
     movie_length = soup.find(property="v:runtime").get_text().replace(u"分钟",'')
+    movie_length = re.findall(r'\d+',movie_length)[0]
     xmlFile.write("<Length>"+movie_length+"</Length>\n")
     director = soup.find(text='导演').parent.parent.find(class_='attrs').get_text().strip()
     xmlFile.write("<Director>" + director + "</Director>\n")
@@ -110,5 +98,5 @@ def main(page):
     saveToFile(soup)
 
 if __name__ == '__main__':
-    for i in range(0, 1):
+    for i in range(2, 4):
         main(i)
