@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊-->
+<!ELEMENT MovieRank (Retrieve, Movie)>
+<!ATTLIST MovieRank
+	total CDATA #REQUIRED
+>
+<!ELEMENT Retrieve EMPTY>
+<!ATTLIST Retrieve
+	time CDATA #REQUIRED
+>
+<!ELEMENT Movie (Name, Rating, Category+, Intro, Date, Length, Director, ScriptWriter+, ActorList)>
+<!ATTLIST Movie
+	Rank CDATA #REQUIRED
+>
+<!ELEMENT Name (StandardName, OtherName*)>
+<!ELEMENT StandardName (#PCDATA)>
+<!ELEMENT OtherName (#PCDATA)>
+<!ELEMENT Rating (#PCDATA)>
+<!ELEMENT Category EMPTY>
+<!ATTLIST Category
+type (剧情|喜剧|动作|爱情|科幻|动画|悬疑|惊悚|恐怖|犯罪|同性|音乐|歌舞|传记|历史|战争|西部|奇幻|冒险|灾难|武侠|情色) #REQUIRED>
+<!ELEMENT Intro (#PCDATA | keyword)*>
+<!ELEMENT keyword (#PCDATA)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Length (#PCDATA)>
+<!ELEMENT Director (#PCDATA)>
+<!ELEMENT ScriptWriter (#PCDATA)>
+<!ELEMENT ActorList (Actor+)>
+<!ELEMENT Actor (#PCDATA)>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="MovieRank">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Retrieve"/>
+				<xs:element ref="Movie" maxOccurs="250"/>
+			</xs:sequence>
+			<xs:attribute name="total" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="250"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Retrieve">
+		<xs:complexType>
+			<xs:attribute name="time" type="xs:date" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Movie">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Name"/>
+				<xs:element ref="Rating"/>
+				<xs:element ref="Category" maxOccurs="unbounded"/>
+				<xs:element ref="Intro"/>
+				<xs:element ref="Date"/>
+				<xs:element ref="Length"/>
+				<xs:element ref="Director"/>
+				<xs:element ref="ScriptWriter" maxOccurs="unbounded" minOccurs="0"/>
+				<xs:element ref="ActorList"/>
+			</xs:sequence>
+			<xs:attribute name="Rank" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="250"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Name">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="StandardName"/>
+				<xs:element ref="OtherName" maxOccurs="unbounded" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="StandardName" type="xs:string"/>
+	<xs:element name="OtherName" type="xs:string"/>
+	<xs:element name="Rating" type="xs:decimal"/>
+	<xs:element name="Category">
+		<xs:complexType>
+			<xs:attribute name="type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="剧情"/>
+						<xs:enumeration value="喜剧"/>
+						<xs:enumeration value="动作"/>
+						<xs:enumeration value="爱情"/>
+						<xs:enumeration value="科幻"/>
+						<xs:enumeration value="动画"/>
+						<xs:enumeration value="悬疑"/>
+						<xs:enumeration value="惊悚"/>
+						<xs:enumeration value="恐怖"/>
+						<xs:enumeration value="犯罪"/>
+						<xs:enumeration value="同性"/>
+						<xs:enumeration value="音乐"/>
+						<xs:enumeration value="歌舞"/>
+						<xs:enumeration value="传记"/>
+						<xs:enumeration value="历史"/>
+						<xs:enumeration value="战争"/>
+						<xs:enumeration value="西部"/>
+						<xs:enumeration value="奇幻"/>
+						<xs:enumeration value="冒险"/>
+						<xs:enumeration value="灾难"/>
+						<xs:enumeration value="武侠"/>
+						<xs:enumeration value="情色"/>
+						<xs:enumeration value="古装"/>
+						<xs:enumeration value="家庭"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Intro">
+		<xs:complexType mixed="true">
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="keyword"/>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="keyword" type="xs:string"/>
+	<xs:element name="Date" type="xs:string"/>  
+	<xs:element name="Length" type="xs:integer"/>
+	<xs:element name="Director" type="xs:string"/>
+	<xs:element name="ScriptWriter" type="xs:string"/>
+	<xs:element name="ActorList">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Actor" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Actor" type="xs:string"/>
+
+</xs:schema>
