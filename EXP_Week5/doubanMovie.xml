@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020 -->
 <?xml-stylesheet type="text/xsl" href="doubanXslt.xslt"?>
-<MovieRank total="75" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
+<MovieRank total="100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
     <Retrieve time="2020-03-19" />
     <Movie Rank="1">
         <Name>
@@ -77,7 +77,7 @@
             ，致使程蝶衣认定菊仙是可耻的第三者，使段小楼做了叛徒，自此，三人围绕一出《霸王别姬》生出的爱恨情仇战开始随着时代风云的变迁不断升级，终酿成悲剧。
         </Intro>
         <Date>1993-01-01(中国香港)</Date>
-        <Length>171 </Length>
+        <Length>171</Length>
         <Director>陈凯歌</Director>
         <ScriptWriter>芦苇</ScriptWriter>
         <ScriptWriter>李碧华</ScriptWriter>
@@ -191,7 +191,7 @@
                 杀害全家的惩罚。马蒂尔达得到里昂的留救，幸免于难，并留在里昂那里。里昂教小女孩使枪，她教里昂法文，两人关系日趋亲密，相处融洽。　　女孩想着去报仇，反倒被抓，里昂及时赶到，将女孩救回。混杂着哀怨情仇的正邪之战渐次升级，更大的冲突在所难免……
         </Intro>
         <Date>1994-09-14(法国)</Date>
-        <Length>110(剧场版)</Length>
+        <Length>110</Length>
         <Director>吕克·贝松</Director>
         <ScriptWriter>吕克·贝松</ScriptWriter>
         <ActorList>
@@ -651,7 +651,7 @@
             、最佳剧本等六项大奖，并获国际印度电影协会最佳影片、最佳导演、最佳剧情、最佳摄影等十六项大奖。
         </Intro>
         <Date>2011-12-08(中国大陆)</Date>
-        <Length>171(印度)</Length>
+        <Length>171</Length>
         <Director>拉吉库马尔·希拉尼</Director>
         <ScriptWriter>维德胡·维诺德·乔普拉</ScriptWriter>
         <ScriptWriter>拉吉库马尔·希拉尼</ScriptWriter>
@@ -921,7 +921,7 @@
             的狐狸，两人不打不相识，之后又误打误撞的接受了寻找失踪的水獭先生的任务，如果不能在两天之内找到水獭先生，朱迪就必须自愿离开警局。朱迪找到了尼克，两人联手揭露了一个隐藏在疯狂动物城之中的惊天秘密。
         </Intro>
         <Date>2016-03-04(中国大陆/美国)</Date>
-        <Length>109(中国大陆)</Length>
+        <Length>109</Length>
         <Director>拜伦·霍华德 / 瑞奇·摩尔 / 杰拉德·布什</Director>
         <ScriptWriter>拜伦·霍华德</ScriptWriter>
         <ScriptWriter>瑞奇·摩尔</ScriptWriter>
@@ -1241,7 +1241,7 @@
         <Category type="犯罪" />
         <Intro>　　从亲眼目睹父母被人杀死的阴影中走出来的“蝙蝠侠”，经历了成长之后，已经不再是那个桀骜不的孤单英雄了。在警官吉姆·戈登和检查官哈维·登特的通力帮助下，“蝙蝠侠”无后顾之忧地继续满世界的奔波，与日益增长起来的犯罪威胁做着永无休止的争斗，而他所在的高谭市，也是进展最为明显的地方，犯罪率以一种惊人的速度持续下降着，毕竟对方是能够上天入地的“蝙蝠侠”，不借两个胆子谁还敢造次呢？不过像高谭这种科技与污秽并存的城市，平静是不可能维持太久的，果不其然，新一轮的混乱很快就席卷了整个城市，人们再一被被恐慌所笼罩着，而声称愿意为这一切负责的，自然就是所有混乱的源头以及支配者--“小丑”了。　　先不管“小丑”掀起一个又一个犯罪的狂潮的最终目的为何，他的企图都是邪恶的，所作所为更是早就危害到了高谭市民的正常生活……其中自然包括了“蝙蝠侠”身边几个非常重要的人，而他需要做的，就是将这股新的危机全部亲自用手捏得粉碎。然而在面对着这个有史以来最具针对性、最恶毒的对手时，“蝙蝠侠”却不得不从他的地下军械库里搬出每一件能够用得上的高科技武器，还得时刻纠结着为他曾经信仰的一切寻找答案。</Intro>
         <Date>2008-07-14(纽约首映)</Date>
-        <Length>['152']</Length>
+        <Length>152</Length>
         <Director>克里斯托弗·诺兰</Director>
         <ScriptWriter>乔纳森·诺兰</ScriptWriter>
         <ScriptWriter>克里斯托弗·诺兰</ScriptWriter>

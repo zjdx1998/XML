@@ -22,7 +22,7 @@ def request_douban(url):
     except requests.RequestException:
         return None
 
-n = 76
+n = 101
 
 def generateXMLCode(soup,stdName):
     if soup.find(class_= 'all hidden') is not None:
@@ -96,7 +96,9 @@ def main(page):
     html = request_douban(url)
     soup = BeautifulSoup(html, 'lxml')
     saveToFile(soup)
-
+saveFileName = "dbMovie.xml"
 if __name__ == '__main__':
-    for i in range(3, 4):
+    if len(sys.argv)==2:
+        saveFileName = sys.argv[1]
+    for i in range(4, 5):
         main(i)
