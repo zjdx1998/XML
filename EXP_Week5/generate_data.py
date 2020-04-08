@@ -22,7 +22,7 @@ def request_douban(url):
     except requests.RequestException:
         return None
 
-n = 51
+n = 76
 
 def generateXMLCode(soup,stdName):
     if soup.find(class_= 'all hidden') is not None:
@@ -98,5 +98,5 @@ def main(page):
     saveToFile(soup)
 
 if __name__ == '__main__':
-    for i in range(2, 4):
+    for i in range(3, 4):
         main(i)
