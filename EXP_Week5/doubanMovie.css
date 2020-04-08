@@ -1,0 +1,13 @@
+body{
+    background-color: #FAFAFA;
+    padding: 30px;
+}
+name{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+rating{
+    color: goldenrod;
+}

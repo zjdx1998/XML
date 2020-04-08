@@ -1,0 +1,39 @@
+body{
+    background-color: #FFFFE0;
+    padding:20px;
+    width:500px;
+    border:#e73415 ridge thick;
+}
+svg{
+    border:goldenrod ridge thick;
+    width:300px;
+    margin-left:80px ;
+    margin-top:20px;
+}
+groupname{
+    margin-left:50px;
+    font-weight: 800;
+}
+members,
+projects{
+    font-size: 30px;
+    font-weight: 500;
+}
+project{
+    margin-left: 150px;
+    text-align: center;
+    font-size: 20px;
+}
+name{
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    margin-top:20px ;
+}
+email{
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-style: italic;
+}

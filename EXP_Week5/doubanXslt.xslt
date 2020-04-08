@@ -5,6 +5,7 @@
 <html>
 	<head>
 		<title>DoubanMoviesRankingList</title>
+		<link rel='stylesheet' href = 'doubanMovie.css' type = 'text/css'/>
 	</head>
 	<body>
 		<time><xsl:value-of select="MovieRank/Retrieve/@time"/></time>
@@ -14,27 +15,39 @@
 			<rank><xsl:value-of select="@Rank"/>
 				<xsl:text>:&#160;&#160;&#160;</xsl:text>
 			</rank>	
-			<name style="font-size:30px">	
+			<name >	
 				<xsl:value-of select="Name/StandardName"/>
 			</name>
 			<br/>
-			<derector>
+			<director>
 				导演:
 				<xsl:value-of select="Director"/>
-				&#160;
-			</derector>
+				<br/>
+			</director>
 			<actor>
 				主演:
-				<xsl:value-of select="ActorList/Actor"/>
+				<xsl:value-of select="ActorList/Actor[1]"/>
+				&#160;
+				<xsl:value-of select="ActorList/Actor[2]"/>
+				&#160;
+				<xsl:value-of select="ActorList/Actor[3]"/>
+
 				
 			</actor>
 			<br/>
 			<category>
 				类型:
+				<xsl:value-of select="Category[1]/@type"/>
+				&#160;
+
+				<xsl:value-of select="Category[2]/@type"/>
+				&#160;
+
+				<xsl:value-of select="Category[3]/@type"/>
 			</category>
-			<p>评分:
-			<rating style ="color:#e7e708"><xsl:value-of select="Rating"/></rating>
-			</p>
+			<div>评分:
+			<rating><xsl:value-of select="Rating"/></rating>
+			</div>
 		</xsl:for-each>
 	
 	
@@ -43,10 +56,5 @@
 </html>
 
 </xsl:template>
-<!--
-<xsl:template match="Category">
-<xsl:for-each select="MovieRank/Movie/Category">
-<xsl:value-of select="Category/@type">/</xsl:value-of>
-</xsl:for-each>
-</xsl:template>-->
+
 </xsl:stylesheet>
