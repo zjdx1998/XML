@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020 -->
-<?xml-stylesheet type="text/xsl" href="doubanXslt.xslt"?>
-<MovieRank total="100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xmlns:xlink="http://www.w3.org/1999/xlink"
-xsi:noNamespaceSchemaLocation="doubanSchema.xsd"
->
+<?xml-stylesheet type="text/xsl" href="movieDetail.xslt"?>
+<MovieRank total="100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
     <Retrieve time="2020-03-19" />
     <Movie Rank="1">
         <Name>

@@ -15,7 +15,11 @@
 			<rank><xsl:value-of select="@Rank"/>
 				<xsl:text>:&#160;&#160;&#160;</xsl:text>
 			</rank>	
-			<name >	
+			<name>
+				<xsl:attribute name="xlink:type">simple</xsl:attribute>
+				<xsl:attribute name="xlink:href">
+					movieDetail.xml#xpointer(Rank('<xsl:value-of select="@Rank"/>'))
+				</xsl:attribute>	
 				<xsl:value-of select="Name/StandardName"/>
 			</name>
 			<br/>
