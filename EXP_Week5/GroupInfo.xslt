@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-	
 	<xsl:template match="/">
 		<html>
 			<head>
@@ -33,7 +32,7 @@
 			</svg>
 			<xsl:apply-templates select="members"/>
 			<hr/>
-			<projects>Projects:<br/></projects>
+			<members>Projects:<br/></members>
 			<project>
 			<a href="doubanMovie.xml">豆瓣电影排行榜</a>
 			</project>
