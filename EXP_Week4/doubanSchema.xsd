@@ -99,7 +99,7 @@
 	</xs:element>
 	<xs:element name="keyword" type="xs:string"/>
 	<xs:element name="Date" type="xs:string"/>  
-	<xs:element name="Length" type="xs:integer"/>
+	<xs:element name="Length" type="xs:string"/>
 	<xs:element name="Director" type="xs:string"/>
 	<xs:element name="ScriptWriter" type="xs:string"/>
 	<xs:element name="ActorList">

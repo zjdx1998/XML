@@ -10,8 +10,8 @@
 			<xs:attribute name="total" use="required">
 				<xs:simpleType>
 					<xs:restriction base="xs:integer">
-                        <xs:minInclusive value="1"/>
-                        <xs:maxInclusive value="250"/>
+						<xs:minInclusive value="1"/>
+						<xs:maxInclusive value="250"/>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:attribute>
@@ -32,14 +32,14 @@
 				<xs:element ref="Date"/>
 				<xs:element ref="Length"/>
 				<xs:element ref="Director"/>
-				<xs:element ref="ScriptWriter" maxOccurs="unbounded" minOccurs="0"/>
+				<xs:element ref="ScriptWriter" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="ActorList"/>
 			</xs:sequence>
 			<xs:attribute name="Rank" use="required">
 				<xs:simpleType>
 					<xs:restriction base="xs:integer">
-                        <xs:minInclusive value="1"/>
-                        <xs:maxInclusive value="250"/>
+						<xs:minInclusive value="1"/>
+						<xs:maxInclusive value="250"/>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:attribute>
@@ -49,7 +49,7 @@
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element ref="StandardName"/>
-				<xs:element ref="OtherName" maxOccurs="unbounded" minOccurs="0"/>
+				<xs:element ref="OtherName" minOccurs="0" maxOccurs="unbounded"/>
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
@@ -85,6 +85,9 @@
 						<xs:enumeration value="情色"/>
 						<xs:enumeration value="古装"/>
 						<xs:enumeration value="家庭"/>
+						<xs:enumeration value="运动"/>
+						<xs:enumeration value="纪录片"/>
+						<xs:enumeration value="儿童"/>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:attribute>
@@ -98,8 +101,8 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="keyword" type="xs:string"/>
-	<xs:element name="Date" type="xs:string"/>  
-	<xs:element name="Length" type="xs:integer"/>
+	<xs:element name="Date" type="xs:string"/>
+	<xs:element name="Length" type="xs:string"/>
 	<xs:element name="Director" type="xs:string"/>
 	<xs:element name="ScriptWriter" type="xs:string"/>
 	<xs:element name="ActorList">
@@ -110,5 +113,4 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="Actor" type="xs:string"/>
-
 </xs:schema>
