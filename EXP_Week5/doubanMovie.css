@@ -31,6 +31,12 @@ actor{
     font-family: sans-serif;
     color: gold;
 }
+time{
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+    color: red;
+}
 
 category{
     font-size: 15px;
