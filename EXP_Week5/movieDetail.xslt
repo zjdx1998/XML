@@ -11,7 +11,7 @@
         <standardname>
             <xsl:value-of select="Name/StandardName"/>
         </standardname>
-		<br/>
+		<hr/>
 		<othername>
 			<tag>别名:</tag>
 			<othernamediv>

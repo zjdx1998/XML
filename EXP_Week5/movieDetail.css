@@ -1,6 +1,8 @@
 body{
+    width: 500px;
     background-color: beige;
     padding: 1%;
+    align-content: center;
 }
 standardname{
     font-size: x-large;

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <xsl:template match="/">
 <html>
@@ -18,7 +20,18 @@
 			<name>
 				<xsl:value-of select="Name/StandardName"/>
 			</name>
+			<xsl:element
+			name="DetailLink"
+			>
+			<xsl:attribute name="xlink:type">simple</xsl:attribute>
+				<xsl:attribute name="xlink:href">
+					movieDetail.xml#xpointer(Rank('<xsl:value-of select="@Rank"/>'))
+			</xsl:attribute>	
+
+			  电影详情
+			</xsl:element>
 			<br/>
+			
 			<director>
 				导演:
 				<xsl:value-of select="Director"/>
