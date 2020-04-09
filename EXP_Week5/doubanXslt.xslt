@@ -60,7 +60,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 			</category>
 			<div>评分:
 			<rating><xsl:value-of select="Rating"/></rating>
-			</div>
+            </div>
 		</xsl:for-each>
 	
 	
