@@ -5,11 +5,20 @@ body{
     width:30%;
     border:#e73415 ridge thick;
 }
+/* body{
+    width: 100%;
+    height: 100vh;	
+    margin: 0 auto;
+    background-image: url(./bkg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+} */
 svg{
     position: relative;
     border:goldenrod ridge thick;
     width:300px;
-    margin-left:12.5% ;
+    margin-left:17.5% ;
     margin-top:20px;
 }
 groupname{

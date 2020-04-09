@@ -1,6 +1,15 @@
-body{
+/* body{
     background-color: #FAFAFA;
     padding: 30px;
+} */
+body{
+    width: 100%;
+    height: 100vh;	
+    margin: 0 auto;
+    background-image: url(./bkg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
 }
 name{
     font-size: 30px;

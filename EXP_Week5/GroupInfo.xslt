@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="/">
-		<html>
+		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
 				<title>GroupInfo</title>
+				<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+				<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport"/>
 				<link rel='stylesheet' href = 'GroupInfo.css' type = 'text/css'/>
 			</head>
 			<body>
