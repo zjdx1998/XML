@@ -1,81 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="Movie">
+<xsl:template match="/">
 <html>
 	<head>
-		<title>MovieDetail</title>
-		<link rel='stylesheet' href = 'movieDetail.css' type = 'text/css'/>
+		<title>DoubanMoviesRankingList</title>
+		<link rel='stylesheet' href = 'doubanMovie.css' type = 'text/css'/>
 	</head>
 	<body>
-        <standardname>
-            <xsl:value-of select="Name/StandardName"/>
-        </standardname>
-		<br/>
-		<othername>
-			别名:
-			<othernamediv>
-			<xsl:for-each select="Name/OtherName">
-				<xsl:value-of select="OtherName"/>&#160;
-			</xsl:for-each>
-			</othernamediv>
-			<br/>	
-		</othername>
-		<rating>
-			评分:
-			<ratingdiv>
-				<xsl:value-of select="Rating"/>
-			</ratingdiv>
+		<time><xsl:value-of select="MovieRank/Retrieve/@time"/></time>
+
+		<xsl:for-each select="MovieRank/Movie">
+			<hr/>
+			<rank><xsl:value-of select="@Rank"/>
+				<xsl:text>:&#160;&#160;&#160;</xsl:text>
+			</rank>	
+			<name>
+				<xsl:value-of select="Name/StandardName"/>
+			</name>
 			<br/>
-		</rating>
-		<category>
-			分类:
-			<categorydiv>
-				<xsl:for-each select="Category">
-					<xsl:value-of select="@type"/>&#160;
-				</xsl:for-each>
-			</categorydiv>
-			<br/>
-		</category>
-		<intro>
-			简介:
-			<introdiv>
-				<xsl:value-of select="Intro"/>
-			</introdiv>
-			<br/>
-		</intro>
-		<date>
-			上映日期:
-			<datediv>
-				<xsl:value-of select="Date"/>
-			</datediv>
-			<br/>
-		</date>
-		<director>
-			导演:
-			<directordiv>
+			<director>
+				导演:
 				<xsl:value-of select="Director"/>
-			</directordiv>
+				<br/>
+			</director>
+			<actor>
+				主演:
+				<xsl:value-of select="ActorList/Actor[1]"/>
+				&#160;
+				<xsl:value-of select="ActorList/Actor[2]"/>
+				&#160;
+				<xsl:value-of select="ActorList/Actor[3]"/>
+
+				
+			</actor>
 			<br/>
-		</director>
-		<scriptwriter>
-			编剧:
-			<scriptwriterdiv>
-				<xsl:for-each select="ScriptWriter">
-					<xsl:value-of select=".">&#160;</xsl:value-of>
-				</xsl:for-each>
-			</scriptwriterdiv>
-			<br/>
-		</scriptwriter>
-		<actorlist>
-			演员:
-			<actorlistdiv>
-				<xsl:for-each select="ActorList/Actor">
-					<xsl:value-of select=".">&#160;</xsl:value-of>
-				</xsl:for-each>
-			</actorlistdiv>
-			<br/>
-		</actorlist>
+			<category>
+				类型:
+				<xsl:value-of select="Category[1]/@type"/>
+				&#160;
+
+				<xsl:value-of select="Category[2]/@type"/>
+				&#160;
+
+				<xsl:value-of select="Category[3]/@type"/>
+			</category>
+			<div>评分:
+			<rating><xsl:value-of select="Rating"/></rating>
+			</div>
+		</xsl:for-each>
+	
+	
 	</body>
 
 </html>
