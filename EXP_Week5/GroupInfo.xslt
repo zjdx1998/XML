@@ -38,9 +38,9 @@
 			<project>
             <a href="doubanMovie.xml">豆瓣电影排行榜</a>
             <br/>
-            <a href="./detail1.xml">海报1</a>
+            <a href="./movieDetail.xml">海报1</a>
             <br/>
-            <a href="./poster2.html">海报2</a>
+            <a href="./poster2.xml">海报2</a>
 			</project>
 		</p>
 	</xsl:template>
