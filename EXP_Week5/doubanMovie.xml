@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020 -->
 <?xml-stylesheet type="text/xsl" href="doubanXslt.xslt"?>
-<!DOCTYPE DetailLink [
-<!ELEMENT DetailLink (#PCDATA)>
-<!ATTLIST DetailLink
-	xmlns:xlink CDATA #FIXED "http://www.w3.org/1999/xlink"
-	xlink:type (simple) #FIXED "simple"
-	xlink:href CDATA #REQUIRED
-	xlink:role CDATA #IMPLIED
-	xlink:title CDATA #IMPLIED
-	xlink:show (embed|replace|new) #FIXED "replace"
-	xlink:actuate (onLoad|onRequest) #FIXED "onRequest">
-	]>
-<MovieRank total="100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
+
+
+<MovieRank total="100" xmlns:xlink="http://www.w3.org/1999/xlink" 
+>
     <Retrieve time="2020-04-09" />
     <Movie Rank="1">
         <Name>

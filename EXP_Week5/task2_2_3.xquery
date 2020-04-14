@@ -8,4 +8,3 @@ return
 	{$old_m/Movie}
 	{$new_m/Movie}
 </MovieRank>
-

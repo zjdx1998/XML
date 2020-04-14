@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-xmlns:xlink="http://www.w3.org/1999/xlink">
+xmlns:xlink="http://www.w3.org/1999/xlink"
+>
 
 <xsl:template match="/">
 <html>
@@ -20,18 +21,26 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 			<name>
 				<xsl:value-of select="Name/StandardName"/>
 			</name>
-			<xsl:element
+			
+			<!-- <xsl:element
 			name="DetailLink"
 			>
 			<xsl:attribute name="xlink:type">simple</xsl:attribute>
 				<xsl:attribute name="xlink:href">
+					http://www.baidu.com
 					movieDetail.xml#xpointer(Rank('<xsl:value-of select="@Rank"/>'))
-			</xsl:attribute>	
-
-			  电影详情
+			</xsl:attribute>
+			<xsl:attribute name="xlink:show">new</xsl:attribute>
 			</xsl:element>
+			<a>
+				<xsl:attribute name="href">
+					<xsl:value-of select="@xlink:href"></xsl:value-of>
+					#{'5'}
+				</xsl:attribute>	
+				详细信息
+			</a> -->
+			<a href="#{generate-id(Director)}">ttttttttttttt</a>
 			<br/>
-			
 			<director>
 				导演:
 				<xsl:value-of select="Director"/>

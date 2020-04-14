@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020-->
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+elementFormDefault="qualified">
 	<xs:element name="MovieRank">
 		<xs:complexType>
 			<xs:sequence>
