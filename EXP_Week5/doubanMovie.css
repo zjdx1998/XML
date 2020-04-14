@@ -11,6 +11,14 @@ body{
     background-size: cover;
     overflow: auto;
 }
+
+rank{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: coral;
+}
+
 name{
     font-size: 30px;
     font-weight: 600;
@@ -30,6 +38,12 @@ actor{
     font-weight: 250;
     font-family: sans-serif;
     color: gold;
+}
+time{
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+    color: red;
 }
 
 category{

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020 -->
-<?xml-stylesheet type="text/xsl" href="movieDetail.xslt"?>
-<MovieRank total="100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
-    <Retrieve time="2020-03-19" />
+<?xml-stylesheet type="text/xsl" href="poster2.xslt"?>
+<MovieRank total="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Retrieve time="2020-04-09" />
     <Movie Rank="1">
         <Name>
             <StandardName>肖申克的救赎</StandardName>
@@ -56,5 +56,10 @@
             <Actor>布赖恩·戴拉特</Actor>
             <Actor>唐·麦克马纳斯</Actor>
         </ActorList>
+        <AwardList>
+            <Award>第67届奥斯卡金像奖 最佳影片(提名) 妮基·马文</Award>
+            <Award>第19届日本电影学院奖 最佳外语片</Award>
+            <Award>第20届报知映画赏 海外作品奖 弗兰克·德拉邦特</Award>
+        </AwardList>
     </Movie>
     </MovieRank>
