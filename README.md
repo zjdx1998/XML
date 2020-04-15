@@ -15,4 +15,15 @@ XML repository for HurryToGraduate group
    * GroupInfo.css/xml/xslt: 小组名片
    * movieDetail.css/xml/xslt: 海报1
    * DoubanMovie.css/xml/xslt/xsd/dtd: 主列表
-   * poster2.css/xml/xslt: 海报2 特点是css使用丰富，且有开场动画，
+   * poster2.css/xml/xslt: 海报2 特点是css使用丰富，且有开场动画
+4. EXP_Week8: DOM + SAX
+    1. Dom文件夹下, index.css/index.html/index.js/load.js 为新增文件
+    2. SAX文件夹为源代码
+
+## Example
+
+Please visit the [website](zjdx1998.com/xmlexp).
+
+> Remark:
+>
+> 实验总分工比为1:1
