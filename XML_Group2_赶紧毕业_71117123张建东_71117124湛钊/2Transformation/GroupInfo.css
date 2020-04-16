@@ -1,7 +1,5 @@
-.mbody{
-    display: inline-block;
-    float:left;
-    margin-left:10%;
+body{
+    margin-left:35%;
     background-color: #FFFFE0;
     padding:20px;
     width:30%;

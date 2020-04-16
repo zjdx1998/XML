@@ -85,9 +85,6 @@
 						<xs:enumeration value="情色"/>
 						<xs:enumeration value="古装"/>
 						<xs:enumeration value="家庭"/>
-						<xs:enumeration value="运动"/>
-						<xs:enumeration value="纪录片"/>
-						<xs:enumeration value="儿童"/>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:attribute>
@@ -101,7 +98,7 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="keyword" type="xs:string"/>
-	<xs:element name="Date" type="xs:string"/>
+	<xs:element name="Date" type="xs:string"/>  
 	<xs:element name="Length" type="xs:string"/>
 	<xs:element name="Director" type="xs:string"/>
 	<xs:element name="ScriptWriter" type="xs:string"/>
