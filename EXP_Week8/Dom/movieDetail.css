@@ -1,0 +1,17 @@
+body{
+    width: 500px;
+    background-color: beige;
+    padding: 1%;
+    align-content: center;
+}
+standardname{
+    font-size: x-large;
+    font-weight: bold;
+}
+tag{
+    padding: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: bolder;
+}
+

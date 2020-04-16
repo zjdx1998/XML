@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020 -->
+<?xml-stylesheet type="text/xsl" href="movieDetail.xslt"?>
+<MovieRank total="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
+    <Retrieve time="2020-03-19" />
+    <Movie Rank="2">
+        <Name>
+            <StandardName>霸王别姬</StandardName>
+            <OtherName>再见，我的妾</OtherName>
+            <OtherName>Farewell My Concubine</OtherName>
+        </Name>
+        <Rating>9.6</Rating>
+        <Category type="剧情" />
+        <Category type="爱情" />
+        <Category type="同性" />
+        <Intro>
+            　　段小楼
+            <keyword>（张丰毅）</keyword>
+            与程蝶衣
+            <keyword>（张国荣）</keyword>
+            是一对打小一起长大的师兄弟，两人一个演生，一个饰旦，一向配合天衣无缝，尤其一出《霸王别姬》，更是誉满京城，为此，两人约定合演一辈子《霸王别姬》。但两人对戏剧与人生关系的理解有本质不同，段小楼深知戏非人生，程蝶衣则是人戏不分。　　段小楼在认为该成家立业之时迎娶了名妓菊仙
+            <keyword>（巩俐）</keyword>
+            ，致使程蝶衣认定菊仙是可耻的第三者，使段小楼做了叛徒，自此，三人围绕一出《霸王别姬》生出的爱恨情仇战开始随着时代风云的变迁不断升级，终酿成悲剧。
+        </Intro>
+        <Date>1993-01-01(中国香港)</Date>
+        <Length>171</Length>
+        <Director>陈凯歌</Director>
+        <ScriptWriter>芦苇</ScriptWriter>
+        <ScriptWriter>李碧华</ScriptWriter>
+        <ActorList>
+            <Actor>张国荣</Actor>
+            <Actor>张丰毅</Actor>
+            <Actor>巩俐</Actor>
+            <Actor>葛优</Actor>
+            <Actor>英达</Actor>
+            <Actor>蒋雯丽</Actor>
+            <Actor>吴大维</Actor>
+            <Actor>吕齐</Actor>
+            <Actor>雷汉</Actor>
+            <Actor>尹治</Actor>
+            <Actor>马明威</Actor>
+            <Actor>费振翔</Actor>
+            <Actor>智一桐</Actor>
+            <Actor>李春</Actor>
+            <Actor>赵海龙</Actor>
+            <Actor>李丹</Actor>
+            <Actor>童弟</Actor>
+            <Actor>沈慧芬</Actor>
+            <Actor>黄斐</Actor>
+            <Actor>徐杰</Actor>
+        </ActorList>
+    </Movie>
+</MovieRank>
