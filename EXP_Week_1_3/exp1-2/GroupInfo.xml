@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="GroupInfo.xslt"?>
+<group>
+	<groupname>
+		赶紧毕业/HurryToGraduate
+	</groupname>
+	<members>
+		<member>
+			<Contact category="Mail">
+				zjdx1998@gmail.com
+			</Contact>
+			<name>
+				张建东
+			</name>
+			<EnglishName>
+				Jeromy Zhang
+			</EnglishName>
+			<University>
+				东南大学
+			</University>
+			<Company>
+				微软
+			</Company>
+			<Job>
+				后端开发软件工程师
+			</Job>
+			<Hobbies>
+				音乐、摄影
+			</Hobbies>
+			<leader>
+				1
+			</leader>
+		</member>
+		<member>
+			<name>
+				湛钊
+			</name>
+			<Job>
+				student
+			</Job>
+			<University>
+				东南大学软件学院
+			</University>
+			<Contact category="Mail">
+				213171505@seu.edu.cn
+			</Contact>
+			<leader>
+				0
+			</leader>
+		</member>
+	</members>
+</group>
