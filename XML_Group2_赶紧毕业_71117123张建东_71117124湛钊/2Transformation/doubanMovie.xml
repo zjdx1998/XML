@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- created by 赶紧毕业 Group2 71117123张建东 71117124湛钊 19/3/2020 -->
 <?xml-stylesheet type="text/xsl" href="doubanXslt.xslt"?>
-<!DOCTYPE DetailLink [
-<!ELEMENT DetailLink (#PCDATA)>
-<!ATTLIST DetailLink
-	xmlns:xlink CDATA #FIXED "http://www.w3.org/1999/xlink"
-	xlink:type (simple) #FIXED "simple"
-	xlink:href CDATA #REQUIRED
-	xlink:role CDATA #IMPLIED
-	xlink:title CDATA #IMPLIED
-	xlink:show (embed|replace|new) #FIXED "replace"
-	xlink:actuate (onLoad|onRequest) #FIXED "onRequest">
-	]>
-<MovieRank total="100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="doubanSchema.xsd">
+
+
+<MovieRank total="100" xmlns:xlink="http://www.w3.org/1999/xlink" 
+>
     <Retrieve time="2020-04-09" />
     <Movie Rank="1">
         <Name>
@@ -1232,6 +1224,65 @@
             <Actor>安娜·勒尼</Actor>
             <Actor>奥德雷·弗勒罗</Actor>
             <Actor>托马·索利韦尔</Actor>
+        </ActorList>
+    </Movie>
+    <Movie Rank="26">
+        <Name>
+            <StandardName>蝙蝠侠：黑暗骑士</StandardName>
+            <OtherName>蝙蝠侠前传2：黑暗骑士</OtherName>
+            <OtherName>黑暗骑士(台)</OtherName>
+            <OtherName>蝙蝠侠-黑夜之神(港)</OtherName>
+            <OtherName>蝙蝠侠6：暗夜骑士</OtherName>
+            <OtherName>Batman: The Dark Knight</OtherName>
+            <OtherName>TDK</OtherName>
+        </Name>
+        <Rating>9.2</Rating>
+        <Category type="剧情" />
+        <Category type="动作" />
+        <Category type="科幻" />
+        <Category type="惊悚" />
+        <Category type="犯罪" />
+        <Intro>　　从亲眼目睹父母被人杀死的阴影中走出来的“蝙蝠侠”，经历了成长之后，已经不再是那个桀骜不的孤单英雄了。在警官吉姆·戈登和检查官哈维·登特的通力帮助下，“蝙蝠侠”无后顾之忧地继续满世界的奔波，与日益增长起来的犯罪威胁做着永无休止的争斗，而他所在的高谭市，也是进展最为明显的地方，犯罪率以一种惊人的速度持续下降着，毕竟对方是能够上天入地的“蝙蝠侠”，不借两个胆子谁还敢造次呢？不过像高谭这种科技与污秽并存的城市，平静是不可能维持太久的，果不其然，新一轮的混乱很快就席卷了整个城市，人们再一被被恐慌所笼罩着，而声称愿意为这一切负责的，自然就是所有混乱的源头以及支配者--“小丑”了。　　先不管“小丑”掀起一个又一个犯罪的狂潮的最终目的为何，他的企图都是邪恶的，所作所为更是早就危害到了高谭市民的正常生活……其中自然包括了“蝙蝠侠”身边几个非常重要的人，而他需要做的，就是将这股新的危机全部亲自用手捏得粉碎。然而在面对着这个有史以来最具针对性、最恶毒的对手时，“蝙蝠侠”却不得不从他的地下军械库里搬出每一件能够用得上的高科技武器，还得时刻纠结着为他曾经信仰的一切寻找答案。</Intro>
+        <Date>2008-07-14(纽约首映)</Date>
+        <Length>152</Length>
+        <Director>克里斯托弗·诺兰</Director>
+        <ScriptWriter>乔纳森·诺兰</ScriptWriter>
+        <ScriptWriter>克里斯托弗·诺兰</ScriptWriter>
+        <ScriptWriter>大卫·S·高耶</ScriptWriter>
+        <ActorList>
+            <Actor>克里斯蒂安·贝尔</Actor>
+            <Actor>希斯·莱杰</Actor>
+            <Actor>艾伦·艾克哈特</Actor>
+            <Actor>迈克尔·凯恩</Actor>
+            <Actor>玛吉·吉伦哈尔</Actor>
+            <Actor>加里·奥德曼</Actor>
+            <Actor>摩根·弗里曼</Actor>
+            <Actor>莫尼克·加布里埃拉·库尔内</Actor>
+            <Actor>罗恩·迪恩</Actor>
+            <Actor>基里安·墨菲</Actor>
+            <Actor>黄经汉</Actor>
+            <Actor>内斯特·卡博内尔</Actor>
+            <Actor>埃里克·罗伯茨</Actor>
+            <Actor>里特奇·科斯特</Actor>
+            <Actor>安东尼·迈克尔·豪尔</Actor>
+            <Actor>基斯·斯扎拉巴基克</Actor>
+            <Actor>柯林·麦克法兰</Actor>
+            <Actor>约书亚·哈尔托</Actor>
+            <Actor>美琳达·麦格劳</Actor>
+            <Actor>内森·甘宝</Actor>
+            <Actor>迈克尔·维约</Actor>
+            <Actor>迈克尔·斯托扬诺夫</Actor>
+            <Actor>威廉·斯米利</Actor>
+            <Actor>丹尼·高德林</Actor>
+            <Actor>迈克尔·加·怀特</Actor>
+            <Actor>马修·奥尼尔</Actor>
+            <Actor>威廉·菲克纳</Actor>
+            <Actor>欧鲁米基·欧拉乌米</Actor>
+            <Actor>格雷格·比姆</Actor>
+            <Actor>爱利克·赫尔曼</Actor>
+            <Actor>毕崔斯·罗森</Actor>
+            <Actor>文森佐·尼克力</Actor>
+            <Actor>陈冠希</Actor>
         </ActorList>
     </Movie>
     <Movie Rank="26">
