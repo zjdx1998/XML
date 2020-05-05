@@ -8,6 +8,11 @@
     2020.2.24 - 2020.4.16
 </div></div>
 
+## Example
+
+Please visit the [website](https://www.zjdx1998.com/xmlexp).
+
+
 ## Source Code Content
 1. EXP_Week_1_3 1-3周实验存档
    1. `GroupInfo.xml` 小组信息和成员名片的xml文件
@@ -96,10 +101,7 @@
     
 5. materials: 包含本文档的pdf版本, 演示视频
 
-## Example
 
-Please visit the [website](zjdx1998.com/xmlexp).
+## Remark:
 
-> Remark:
->
 > 实验总分工比为1:1
